@@ -1,4 +1,4 @@
-# Meal Plan Optimizer
+# Meal Plan Generator
 
 An automated daily meal plan generator that uses a **Genetic Algorithm (GA)** to produce nutritionally balanced one-day meal plans aligned with Saudi dietary guidelines. The system simultaneously optimizes for caloric accuracy, macronutrient balance, meal variety, and user food preferences.
 
