@@ -110,14 +110,9 @@ All notebooks are in the `Code/` folder. All datasets are in the `Datasets/` fol
 
 Open `Code/Meal_Plan_Optimization_GA.ipynb` and run **Kernel → Restart & Run All**.
 
-Expected runtime: **1–3 hours**
-
 ### Experiment 2
 
 Open `Code/Experiment_2_Dataset_Sensitivity.ipynb` and run **Kernel → Restart & Run All**.
-
-Expected runtime: **10–20 minutes per case × 6 cases**
-
 
 ---
 
