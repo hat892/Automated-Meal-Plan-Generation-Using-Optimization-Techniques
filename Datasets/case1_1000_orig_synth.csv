@@ -1,0 +1,1001 @@
+No.,Food Item,Category,1 Serving Size,Total Weight (g),Protein (g),Fats (g),Carbohydrates (g),Calories (kcal),Breakfast,Snack 1,Lunch,Snack 2,Dinner,User Preference,Source
+1,Grated Parmesan Cheese,Dairy,1 tsp,5.0,1.9,1.4,0.2,21.6,0,0,0,0,0,0.75,Original
+2,Cheddar Cheese,Dairy,2 tbsp,28.0,7.0,9.3,0.4,112.8,0,0,0,0,0,1.0,Original
+3,Halloumi Cheese,Dairy,1 cup,100.0,16.4,29.4,8.2,363.0,0,0,0,0,0,0.5,Original
+4,Hard Goat Milk Cheese,Dairy,2 tbsp,28.0,8.5,10.0,0.6,126.6,1,0,0,0,0,1.0,Original
+5,Soft Goat Milk Cheese,Dairy,2 tbsp,28.0,5.2,5.9,0.2,75.0,1,0,0,0,0,1.0,Original
+6,Medium-Soft Goat Milk Cheese,Dairy,2 tbsp,28.0,6.0,8.4,0.7,101.9,1,0,0,0,0,0.25,Original
+7,Low-Fat Ricotta Cheese,Dairy,1 cup,124.0,14.1,9.8,6.4,171.1,0,0,0,0,0,0.5,Original
+8,Full-Fat Ricotta Cheese,Dairy,1 cup,124.0,14.0,16.1,3.8,215.8,0,0,0,0,0,0.5,Original
+9,Feta Cheese,Dairy,2 tbsp,28.0,4.0,6.0,1.1,73.9,0,0,0,0,0,0.5,Original
+10,Cream Cheese,Dairy,2 tbsp,15.0,0.9,5.1,0.6,51.3,0,0,0,0,0,1.0,Original
+11,Fat-Free Cream Cheese,Dairy,2 tbsp,28.0,4.4,0.3,2.1,29.4,1,0,0,0,0,0.75,Original
+12,Low-Fat Cream Cheese,Dairy,2 tbsp,28.0,2.2,4.3,2.3,56.3,1,0,0,0,0,0.5,Original
+13,Cottage Cheese < 5% Fat,Dairy,1 cup,226.0,23.4,0.7,15.1,162.7,1,0,0,0,0,1.0,Original
+14,Full-Fat Mozzarella Cheese,Dairy,2 tbsp,28.0,6.2,6.3,0.6,84.0,0,0,0,0,0,0.25,Original
+15,Fat-Free Mozzarella Cheese,Dairy,2 tbsp,28.0,8.9,0.0,1.0,41.7,0,0,0,0,0,0.75,Original
+16,Low-Fat Mozzarella Cheese,Dairy,2 tbsp,28.0,6.8,4.5,0.8,71.1,0,0,0,0,0,0.25,Original
+17,Evaporated Milk,Dairy,6 tbsp,100.0,7.0,7.9,9.7,137.0,1,0,0,0,0,0.75,Original
+18,Sheep's Milk,Dairy,1 cup,245.0,14.7,17.2,13.1,264.6,1,0,0,0,0,1.0,Original
+19,Goat's Milk,Dairy,1 cup,244.0,8.7,10.1,10.9,168.4,0,0,0,0,0,0.0,Original
+20,Low-Fat Chocolate Milk,Dairy,1 cup,250.0,7.5,4.8,30.3,190.0,1,0,0,0,0,0.75,Original
+21,Strawberry Milk,Dairy,1 cup,266.0,8.0,8.2,32.7,234.1,1,0,0,0,0,0.25,Original
+22,Milk Powder,Dairy,2 tbsp,32.0,8.4,8.5,12.3,158.7,0,0,0,0,0,1.0,Original
+23,Low-Fat Milk,Dairy,1 cup,244.0,8.1,4.8,11.4,122.0,1,0,0,0,0,0.75,Original
+24,Full-Fat Milk,Dairy,1/3 cup,100.0,3.5,3.0,5.5,64.0,0,0,0,0,0,0.0,Original
+25,Canned Fat-Free Evaporated Milk,Dairy,2 tbsp,32.0,2.4,0.1,3.6,25.0,1,0,0,0,0,0.0,Original
+26,Canned Sweetened Condensed Milk,Dairy,2 tbsp,38.0,3.0,3.3,20.7,122.0,1,0,0,0,0,0.5,Original
+27,Fat-Free Milk,Dairy,1 cup,245.0,8.3,0.2,12.2,83.3,1,0,0,0,0,0.5,Original
+28,Yogurt,Dairy,1/3 cup,100.0,3.2,2.6,5.4,59.0,1,0,0,0,0,0.25,Original
+29,Low-Fat Yogurt,Dairy,1 cup,227.0,11.9,3.5,16.0,143.0,1,0,0,0,0,0.75,Original
+30,Low-Fat Vanilla Yogurt,Dairy,1 cup,227.0,11.2,2.8,31.3,193.0,1,0,0,0,0,0.75,Original
+31,Low-Fat Strawberry Yogurt,Dairy,1 cup,227.0,9.0,2.6,42.3,224.7,1,0,0,0,0,0.5,Original
+32,Fat-Free Yogurt,Dairy,1 cup,227.0,13.0,0.4,17.4,127.1,1,0,0,0,0,0.75,Original
+33,Fat-Free Chocolate Yogurt,Dairy,1 cup,227.0,8.0,0.0,53.4,245.2,1,0,0,0,0,0.75,Original
+34,Fat-Free Fruit Yogurt,Dairy,1 cup,227.0,10.0,0.5,43.1,215.6,1,0,0,0,0,0.0,Original
+35,Labneh (Strained Yogurt),Dairy,1 cup,100.0,12.9,10.8,1.0,154.0,1,0,0,0,0,0.5,Original
+36,Omelette,Protein,1 egg,61.0,6.5,7.3,0.4,95.8,1,0,0,0,0,1.0,Original
+37,Egg White,Protein,1 egg white,33.0,3.6,0.1,0.2,15.8,1,0,0,0,0,0.5,Original
+38,Goose Egg,Protein,1 egg,144.0,20.0,19.1,1.9,266.4,1,0,0,0,0,1.0,Original
+39,Turkey Egg,Protein,1 egg,79.0,10.8,9.4,0.9,135.1,1,0,0,0,0,0.0,Original
+40,Quail Egg,Protein,1 egg,9.0,1.2,1.0,,14.2,1,0,0,0,0,0.25,Original
+41,Duck Egg,Protein,1 egg,70.0,9.0,9.6,1.0,129.5,1,0,0,0,0,0.75,Original
+42,Chicken Egg,Protein,1 egg,50.0,6.3,5.0,0.4,71.5,1,0,0,0,0,0.0,Original
+43,Dried Egg,Protein,1 tsp,5.0,2.4,2.2,0.1,30.8,1,0,0,0,0,0.75,Original
+44,Scrambled Egg with Milk,Protein,1 egg,61.0,6.8,7.4,1.3,101.9,1,0,1,0,0,0.25,Original
+45,Boiled Egg,Protein,1 egg,50.0,6.3,5.3,0.6,77.5,1,0,0,0,0,0.25,Original
+46,Fried Egg,Protein,1 egg,46.0,6.3,7.0,0.4,90.2,1,0,0,0,0,0.0,Original
+47,Egg Yolk,Protein,1 egg yolk,17.0,2.7,4.5,0.6,53.9,1,0,0,0,0,0.25,Original
+48,Roasted Duck without Skin,Protein,Palm-sized portion,85.0,20.0,9.5,0.0,170.8,1,0,0,0,1,1.0,Original
+49,Roasted Duck with Skin,Protein,Palm-sized portion,85.0,16.1,24.1,0.0,286.4,1,0,0,0,1,0.25,Original
+50,Pigeon,Protein,Palm-sized portion,100.0,21.8,3.3,0.0,117.8,0,0,0,0,0,0.75,Original
+51,Pigeon without Skin,Protein,Palm-sized portion,85.0,14.9,6.4,0.0,120.7,0,0,0,0,0,0.75,Original
+52,Cooked Pigeon,Protein,Palm-sized portion,85.0,20.3,11.0,0.0,186.2,0,0,0,0,0,0.75,Original
+53,Fried Pigeon,Protein,Palm-sized portion,100.0,27.8,4.2,0.0,150.0,0,0,0,0,0,0.75,Original
+54,Chicken,Protein,Palm-sized portion,85.0,18.2,2.6,0.0,101.2,0,0,0,0,1,1.0,Original
+55,Canned Chicken,Protein,1 can,142.0,30.9,11.3,0.0,234.3,0,0,0,0,1,0.5,Original
+56,Shrimp,Protein,5-6 pieces,100.0,19.7,0.8,0.0,87.1,0,0,0,0,1,0.0,Original
+57,Fried Shrimp,Protein,3-4 medium pieces,85.0,18.17,10.43,9.74,205.71,0,0,1,0,1,0.75,Original
+58,Sausage,Protein,1 piece,57.0,6.84,16.25,1.03,179.55,0,0,0,0,0,0.25,Original
+59,Canned Salmon,Protein,Palm-sized portion,85.0,17.4,6.21,0.0,130.0,0,0,0,0,0,0.75,Original
+60,Cooked Quail,Protein,Palm-sized portion,85.0,21.3,12.0,0.0,198.9,0,0,0,0,1,0.25,Original
+61,Red Snapper Fish,Protein,Palm-sized portion,85.0,22.37,1.45,0.0,108.81,0,0,0,0,1,0.25,Original
+62,Canned Tuna Fish,Protein,Palm-sized portion,85.0,21.68,0.69,0.0,98.61,0,0,0,0,0,0.75,Original
+63,Sheri Fish (Emperor),Protein,Palm-sized portion,100.0,19.7,1.1,0.0,89.8,0,0,0,0,0,1.0,Original
+64,Fried Sheri Fish,Protein,Palm-sized portion,100.0,25.9,7.0,0.0,167.0,0,0,0,0,1,0.25,Original
+65,Safi Fish (Rabbitfish),Protein,Palm-sized portion,100.0,18.9,7.3,0.1,141.8,0,0,0,0,0,0.25,Original
+66,Grilled Safi Fish,Protein,Palm-sized portion,100.0,27.3,4.3,0.0,148.9,0,0,0,0,1,0.75,Original
+67,Broasted Chicken Breast,Protein,1/2 small chicken breast,85.0,26.35,3.0,0.0,140.26,1,0,1,0,1,0.25,Original
+68,Fried Chicken Breast,Protein,1/2 small chicken breast,85.0,28.42,4.0,0.42,158.94,0,0,1,0,1,0.25,Original
+69,Fried Chicken Thigh,Protein,1 medium chicken thigh,85.0,18.5,13.73,7.41,232.0,0,0,1,0,1,0.75,Original
+70,Broasted Chicken Thigh,Protein,1 medium chicken thigh,85.0,22.0,11.45,0.0,197.19,1,0,1,0,1,0.75,Original
+71,Gargafan Fish (Sea Bream),Protein,Palm-sized portion,100.0,19.9,3.7,0.4,115.0,1,0,0,0,1,0.0,Original
+72,Grilled Gargafan Fish,Protein,Palm-sized portion,100.0,22.8,1.8,0.0,108.6,0,0,0,0,1,1.0,Original
+73,Chicken Liver,Protein,3 medium pieces,85.0,20.72,4.65,0.75,133.5,0,0,1,0,1,1.0,Original
+74,Cooked Meat Liver,Protein,4 medium pieces,85.0,22.73,6.81,6.67,184.45,0,0,0,0,1,0.25,Original
+75,Kingfish,Protein,Palm-sized portion,100.0,19.5,9.3,0.0,161.0,0,0,0,0,0,1.0,Original
+76,Fried Kingfish,Protein,Palm-sized portion,100.0,26.7,11.9,0.0,213.7,0,0,0,0,1,0.25,Original
+77,Boiled Ground Beef,Protein,2 tbsp,85.0,20.45,17.6,0.0,245.65,1,0,0,0,1,0.0,Original
+78,Fried Ground Beef,Protein,2 tbsp,85.0,20.33,19.2,0.0,260.0,0,0,0,0,1,0.75,Original
+79,Cooked Veal,Protein,3 small pieces,85.0,23.99,8.0,0.0,175.0,0,0,0,0,1,0.75,Original
+80,Meed Fish (Silver Biddy),Protein,Palm-sized portion,100.0,18.3,16.1,0.0,216.7,0,0,0,0,0,0.75,Original
+81,Grilled Meed Fish,Protein,Palm-sized portion,100.0,24.2,10.5,0.0,191.2,0,0,1,0,1,1.0,Original
+82,Hamour Fish (Grouper),Protein,Palm-sized portion,100.0,19.3,3.4,0.2,109.3,0,0,0,0,0,0.0,Original
+83,Hamour with Rice,Protein,1/2 cup,100.0,27.3,3.2,0.0,139.2,0,0,0,0,1,1.0,Original
+84,Yanam Fish (Seerfish/Mackerel),Protein,Palm-sized portion,100.0,17.9,10.4,0.0,164.7,0,0,0,0,0,1.0,Original
+85,Grilled Yanam Fish,Protein,Palm-sized portion,100.0,25.9,5.6,0.0,154.8,0,0,0,0,1,0.0,Original
+86,Rice (cooked),Grains,1 cup,158.0,4.25,0.44,44.51,205.4,1,1,0,1,0,0.0,Original
+87,Baksim (hard biscuit/rusk),Grains,1 piece,10.0,1.2,0.95,6.84,41.2,1,1,0,1,0,0.0,Original
+88,Cheese Biscuit,Grains,1 piece,1.0,0.1,0.25,0.58,5.03,1,1,1,1,0,0.0,Original
+89,Wheat Biscuit,Grains,1 piece,2.0,0.17,0.41,1.3,9.46,1,1,1,1,0,0.75,Original
+90,Salted Cracker/Biscuit,Grains,1 piece,3.0,0.22,0.76,1.83,15.06,1,1,0,1,0,0.5,Original
+91,Bread Crumbs,Grains,1 cup,108.0,14.4,5.7,77.7,426.6,1,1,0,1,0,0.5,Original
+92,Corn Flakes,Grains,1 cup,166.0,15.6,7.9,123.3,605.9,1,1,0,1,0,0.0,Original
+93,Wheat Grains/Berries,Grains,1 cup,192.0,,,,0.0,1,1,0,1,0,0.5,Original
+94,White Bread,Grains,1/4 loaf,25.0,1.9,0.8,12.7,66.5,1,1,0,1,0,0.5,Original
+95,Toasted White Bread,Grains,1/4 loaf,22.0,2.0,0.9,12.0,64.5,1,1,1,1,0,0.0,Original
+96,Brown Bread,Grains,1/4 loaf,28.0,3.6,0.9,11.6,69.2,1,1,0,1,0,0.5,Original
+97,Oatmeal Bread,Grains,1 small slice,27.0,2.3,1.2,13.1,72.6,1,1,0,1,0,1.0,Original
+98,Oatmeal Bread with Bran,Grains,1 small slice,30.0,3.1,1.3,11.9,70.8,1,1,1,1,0,0.25,Original
+99,Cheese Bread,Grains,1 piece,66.0,4.69,12.08,28.84,237.6,1,1,1,1,0,0.25,Original
+100,Bran Bread,Grains,1/4 loaf,36.0,3.2,1.2,17.2,89.3,1,1,0,1,0,0.0,Original
+101,White Bread Roll,Grains,1 medium roll,28.0,,,,0.0,1,1,1,1,0,0.75,Original
+102,Brown Bread Roll,Grains,1 medium roll,36.0,,,,0.0,1,1,1,1,0,0.0,Original
+103,Burger Bun,Grains,1 bun,43.0,4.1,1.9,21.3,120.0,0,1,1,1,0,0.75,Original
+104,French Bread (Baguette),Grains,1 small slice,32.0,3.8,0.6,18.1,92.5,1,1,0,1,0,0.25,Original
+105,Oatmeal Flour,Grains,2 tbsp,28.0,3.6,1.8,18.9,105.0,1,1,0,1,0,0.0,Original
+106,Cooked Oatmeal,Grains,1 cup,234.0,5.5,3.2,27.3,159.1,1,1,0,1,0,1.0,Original
+107,Sweetened Corn Flakes,Grains,1 cup,38.0,2.014,0.532,34.24,148.58,1,1,0,1,0,0.5,Original
+108,Plain Corn Flakes,Grains,1 cup,28.0,1.84,0.199,24.22,102.2,1,1,0,1,0,0.75,Original
+109,White Sugar,Grains,1 tsp,4.0,0.0,0.0,3.99,15.48,1,1,0,1,0,0.5,Original
+110,Brown Sugar,Grains,1 tsp,3.0,0.0,0.0,2.92,11.28,1,1,0,1,0,0.5,Original
+111,Quaker Oats,Grains,2.5 tbsp,40.0,6.8,3.2,25.2,145.6,1,1,0,1,0,0.0,Original
+112,Quaker Oats prepared with water,Grains,1 cup,234.0,4.8,2.2,17.5,100.6,1,1,0,1,0,0.5,Original
+113,Cooked Oats,Grains,1 cup,219.0,7.0,1.9,25.1,87.6,1,1,0,1,0,1.0,Original
+114,White Flour,Grains,1 cup,125.0,12.19,1.23,95.39,455.0,1,0,0,0,0,0.5,Original
+115,Corn Flour,Grains,1 cup,114.0,0.0,0.2,,0.0,0,0,0,0,0,0.0,Original
+116,White Rice Flour,Grains,1 cup,158.0,9.4,2.2,126.6,578.3,1,1,0,1,0,1.0,Original
+117,Brown Rice Flour,Grains,1 cup,158.0,11.4,4.4,120.8,573.5,1,1,0,1,0,0.25,Original
+118,Brown Wheat Flour,Grains,1 cup,120.0,16.4,2.2,87.1,406.8,1,1,0,1,0,0.5,Original
+119,Honey,Grains,1 tbsp,21.0,0.06,0.0,17.3,63.84,0,1,0,1,0,0.0,Original
+120,Toast Cubes,Grains,1 cup,30.0,3.6,2.0,22.0,122.1,1,1,0,1,0,0.25,Original
+121,Cheese Croissant,Grains,1 medium piece,57.0,5.24,11.91,26.79,235.98,1,1,1,1,0,0.25,Original
+122,Butter Croissant,Grains,1 medium piece,57.0,4.67,11.97,26.11,231.42,1,1,0,1,0,0.75,Original
+123,Plain Cake (Muffin),Grains,1 large size,65.0,4.49,7.41,26.91,192.4,1,1,0,1,0,1.0,Original
+124,Quinoa,Grains,1 cup,170.0,24.0,10.3,109.1,625.6,1,1,0,1,0,0.5,Original
+125,Cooked Pasta,Grains,1 cup,140.0,6.68,0.94,39.68,197.4,0,0,0,0,1,0.0,Original
+126,Corn Bran,Grains,1 cup,76.0,6.4,0.7,65.1,170.2,1,1,0,1,0,0.75,Original
+127,Rice Bran,Grains,1 cup,118.0,15.8,24.6,58.6,372.9,1,1,0,1,0,1.0,Original
+128,Wheat Bran,Grains,1 cup,58.0,9.0,2.5,37.4,125.3,1,1,0,1,0,0.75,Original
+129,Cooked Noodles,Grains,1 cup,160.0,7.6,2.35,39.74,212.8,0,1,1,1,1,1.0,Original
+130,Avocado,Fruits,1 cup (sliced),146.0,2.9,21.4,12.5,233.6,0,1,0,1,1,1.0,Original
+131,Pineapple,Fruits,1 cup (chunks),155.0,0.8,0.2,20.3,77.5,0,1,0,1,1,0.5,Original
+132,Orange,Fruits,1 medium one,131.0,1.2,0.2,15.4,61.6,0,1,0,1,1,1.0,Original
+133,Dates,Fruits,4 pieces,32.0,0.8,0.1,24.0,90.2,0,1,0,1,1,0.75,Original
+134,Blueberries,Fruits,1 cup,145.0,1.1,0.5,21.0,82.6,0,1,0,1,1,1.0,Original
+135,Blackberries,Fruits,1 cup,144.0,2.0,0.7,13.8,61.9,0,1,0,1,1,0.5,Original
+136,Cranberries,Fruits,1 cup,95.0,0.4,0.1,11.6,43.7,0,1,0,1,1,0.5,Original
+137,Figs,Fruits,1 medium one,50.0,0.4,0.2,9.6,37.0,0,1,0,1,1,0.75,Original
+138,Peach,Fruits,1 medium one,150.0,1.4,0.4,14.3,58.5,0,1,0,1,1,0.25,Original
+139,Dried Plums (Prunes),Fruits,1 cup (halves),160.0,5.8,1.2,98.1,382.4,0,1,0,1,1,0.25,Original
+140,Cantaloupe,Fruits,1 cup (chunks),177.0,1.5,0.3,14.4,60.2,0,1,0,1,1,1.0,Original
+141,Sour Cherries,Fruits,1 cup,103.0,1.0,0.3,12.5,51.5,0,1,0,1,1,0.0,Original
+142,Sweet Cherries,Fruits,1 cup,117.0,1.2,0.2,18.7,73.7,0,1,0,1,1,1.0,Original
+143,Papaya,Fruits,1 medium one,304.0,1.9,0.4,29.8,118.6,0,1,0,1,1,0.75,Original
+144,Apple,Fruits,1 medium one,138.0,0.4,0.2,19.1,71.8,0,1,0,1,1,0.75,Original
+145,Dried Apple,Fruits,1 slice,98.0,0.9,0.3,64.6,238.1,0,1,0,1,1,0.75,Original
+146,Tamarind,Fruits,1 cup,120.0,3.4,0.7,75.0,286.8,0,1,0,1,1,0.75,Original
+147,Mulberries,Fruits,1 cup,123.0,1.5,0.8,14.7,64.0,0,1,0,1,1,0.75,Original
+148,Grapefruit,Fruits,1/2 medium one,118.0,0.7,0.1,9.5,37.8,0,1,0,1,1,0.5,Original
+149,Guava,Fruits,1 medium one,90.0,2.3,0.9,12.9,61.2,0,1,0,1,1,0.25,Original
+150,Banana Chips,Fruits,2 tbsp,28.0,0.6,9.4,16.4,145.3,0,1,0,1,1,0.75,Original
+151,Ghoj (Maybe Plum/Gojiberry),Fruits,1 medium one,66.0,0.5,0.2,7.5,30.4,0,1,0,1,1,0.0,Original
+152,Strawberry,Fruits,1 cup,144.0,1.0,0.4,11.1,46.1,0,1,0,1,1,0.0,Original
+153,Orange Peel,Fruits,1 tsp,6.0,0.1,,1.5,5.8,0,1,0,1,1,0.0,Original
+154,Lemon Peel,Fruits,1 tsp,6.0,0.1,,1.0,2.8,0,1,0,1,1,0.0,Original
+155,Pear,Fruits,1 medium one,166.0,0.6,0.2,25.7,96.3,0,1,0,1,1,0.5,Original
+156,Dried Pear,Fruits,10 halves,175.0,3.3,1.1,122.0,458.5,0,1,0,1,1,0.0,Original
+157,Kiwi,Fruits,1 medium one,76.0,0.9,0.4,11.1,46.4,0,1,0,1,1,0.75,Original
+158,Lemon,Fruits,1 medium one,58.0,0.6,0.2,5.4,16.8,0,1,0,1,1,1.0,Original
+159,Mango,Fruits,1 medium one,207.0,1.1,0.6,35.2,134.6,0,1,0,1,1,0.0,Original
+160,Apricot,Fruits,3 pieces,105.0,1.5,0.4,11.7,50.4,0,1,0,1,1,0.5,Original
+161,Dried Apricot,Fruits,1 cup (halves),65.0,2.2,0.3,40.7,156.6,0,1,0,1,1,0.5,Original
+162,Banana,Fruits,1 medium one,118.0,1.3,0.4,27.0,105.0,0,1,0,1,1,0.0,Original
+163,Nectarine,Fruits,1 medium one,136.0,1.4,0.4,14.3,59.8,0,1,0,1,1,1.0,Original
+164,Green Peas,Vegetables,1 cup,160.0,8.6,0.4,25.0,134.4,1,0,0,0,0,0.0,Original
+165,Sweet Potato,Vegetables,1 medium one,130.0,2.0,0.1,26.2,111.8,1,0,0,0,1,0.5,Original
+166,Parsley,Vegetables,10 sprigs,10.0,0.3,0.1,0.6,3.6,0,0,0,0,0,0.25,Original
+167,Lupin Beans,Vegetables,1 cup,166.0,25.8,4.8,16.4,197.5,1,0,1,0,1,0.75,Original
+168,Arugula (Rocket),Vegetables,1 cup,34.0,0.8,,0.4,3.7,0,0,0,0,0,0.5,Original
+169,Purslane,Vegetables,1 cup,43.0,0.6,,1.5,6.9,0,0,0,0,0,0.0,Original
+170,Spinach,Vegetables,1 cup,30.0,0.9,0.1,1.1,6.9,1,0,0,0,0,0.75,Original
+171,Black Beans,Vegetables,1 cup,164.0,14.5,4.2,45.0,269.0,1,0,0,0,0,0.0,Original
+172,Beans (General),Vegetables,1 cup,177.0,15.3,0.9,40.4,224.8,0,0,0,0,0,0.0,Original
+173,Green Beans,Vegetables,1 cup,110.0,2.0,0.1,7.8,34.1,1,0,0,0,1,0.25,Original
+174,Red Radish,Vegetables,Sliced (1/2 cup),58.0,0.4,0.1,2.0,9.3,0,0,0,0,0,0.75,Original
+175,Cauliflower,Vegetables,1 cup,100.0,2.0,0.1,5.3,25.0,0,0,0,0,1,0.75,Original
+176,Leek (Greens),Vegetables,4 tsp,40.0,1.0,,6.7,28.8,1,0,0,0,0,0.25,Original
+177,Coriander (Cilantro),Vegetables,9 sprigs,20.0,0.4,0.1,0.7,4.6,0,0,0,0,0,0.5,Original
+178,Turnip,Vegetables,1 cup sliced,67.0,2.2,0.5,6.7,33.5,0,0,0,0,0,0.0,Original
+179,Eggplant (Aubergine),Vegetables,1/2 cup,82.0,0.84,0.15,4.98,21.32,1,0,1,0,1,1.0,Original
+180,Frozen Peas,Vegetables,1 cup,63.0,1.8,0.1,4.8,26.5,1,0,0,0,0,0.0,Original
+181,Okra,Vegetables,1 cup,100.0,2.0,0.1,7.0,31.0,0,0,0,0,0,0.0,Original
+182,Broccoli,Vegetables,1 cup,91.0,2.6,0.3,6.0,30.9,0,0,0,0,0,0.5,Original
+183,Onion,Vegetables,1 cup (chopped),160.0,1.8,0.2,14.9,64.0,0,0,0,0,0,0.0,Original
+184,Potato,Vegetables,1 medium one,213.0,4.3,0.2,37.2,164.0,0,0,0,0,0,0.25,Original
+185,Boobar,Vegetables,1 cup,33.0,0.3,,1.1,5.0,0,0,0,0,0,0.25,Original
+186,Tabbouleh,Vegetables,2 tbsp,28.35,1.0,2.0,2.0,30.0,0,0,0,0,1,0.75,Original
+187,Garlic,Vegetables,3 cloves,9.0,0.6,,3.0,13.4,0,0,0,0,0,1.0,Original
+188,Carrot,Vegetables,1 one,72.0,0.7,0.2,6.9,29.5,0,0,0,0,0,0.0,Original
+189,Baby Carrot,Vegetables,1 medium one,10.0,0.1,,0.8,3.5,0,0,0,0,0,0.0,Original
+190,Chickpeas (Hummus),Vegetables,1 tbsp,14.0,1.1,1.3,2.0,23.2,1,0,0,0,0,0.5,Original
+191,Cucumber,Vegetables,1 large piece,301.0,2.0,0.3,10.9,45.2,0,0,0,0,0,0.25,Original
+192,Sour Pickled Cucumber,Vegetables,1 slice,7.0,0.02,0.01,0.16,0.77,0,0,0,0,0,1.0,Original
+193,Fresh Corn,Vegetables,1/2 cup,140.0,3.68,1.02,39.07,176.4,1,0,0,0,0,0.75,Original
+194,Sweet Canned Corn,Vegetables,1 cup,164.0,4.3,1.64,30.49,132.84,0,0,0,0,0,0.25,Original
+195,Canned Olive,Vegetables,1 piece,8.3,0.08,0.57,0.47,6.72,0,0,0,0,0,0.75,Original
+196,Vegetable Salad,Vegetables,1 cup,100.0,0.93,1.86,4.51,39.59,0,0,1,0,0,0.5,Original
+197,Beetroot,Vegetables,Sliced (1/2 cup),68.0,1.1,0.1,6.5,29.2,0,0,0,0,0,0.5,Original
+198,Ta'ameya (Falafel),Vegetables,1 piece,17.0,2.3,3.0,5.4,56.6,1,0,0,0,0,0.0,Original
+199,Tomato,Vegetables,1 medium one,123.0,1.1,0.2,4.8,22.1,0,0,0,0,0,1.0,Original
+200,Lentils,Vegetables,1 cup,198.0,17.9,0.8,39.9,229.7,0,0,0,0,0,0.75,Original
+201,White Beans,Vegetables,1 cup,179.0,17.4,0.6,44.9,248.8,1,0,0,0,1,0.25,Original
+202,Yellow Beans,Vegetables,1 cup,177.0,16.2,1.9,44.7,254.9,1,0,0,0,0,0.5,Original
+203,Red Hot Pepper,Vegetables,1 piece,45.0,0.8,0.2,4.0,18.0,0,0,0,0,0,0.0,Original
+204,Green Hot Pepper,Vegetables,1 piece,45.0,0.9,0.1,4.3,18.0,0,0,0,0,0,0.0,Original
+205,Soybean,Vegetables,1 cup,172.0,28.6,15.4,17.1,297.6,1,0,0,0,0,0.75,Original
+206,Taro,Vegetables,1 cup,104.0,1.6,0.2,27.5,116.5,0,0,0,0,0,0.5,Original
+207,Leek (Greens),Vegetables,1 bunch (1 cup),89.0,1.3,0.3,12.6,54.3,1,0,0,0,0,1.0,Original
+208,Celery,Vegetables,1 medium stalk,40.0,0.3,0.1,1.2,6.4,0,0,0,0,0,0.5,Original
+209,Mushroom,Vegetables,Sliced (1 cup),70.0,2.2,0.2,2.3,15.4,0,0,0,0,0,0.75,Original
+210,Tomato Paste,Vegetables,168 grams (1 can),170.0,7.3,0.8,32.1,139.4,0,0,0,0,0,0.75,Original
+211,Asparagus,Vegetables,1 cup,134.0,2.9,0.2,5.2,26.8,0,0,0,0,1,0.5,Original
+212,Grape Leaves,Vegetables,1 cup,14.0,0.8,0.3,2.4,13.0,0,0,0,0,0,0.75,Original
+213,Margarine (Unsalted),Fats and Oils,1 tsp,4.7,0.02,3.77,0.02,33.56,1,0,0,0,0,0.5,Original
+214,Margarine (Salted),Fats and Oils,1 tsp,4.7,0.04,3.78,0.04,33.78,0,0,0,0,0,0.25,Original
+215,Corn Oil,Fats and Oils,1 tsp,13.64,0.0,13.64,0.0,120.55,0,0,0,0,0,0.5,Original
+216,Olive Oil,Fats and Oils,1 tsp,13.51,0.0,13.51,0.0,119.44,0,0,0,0,0,0.5,Original
+217,Palm Oil,Fats and Oils,1 tsp,13.64,0.0,13.64,0.0,120.55,0,0,0,0,0,0.75,Original
+218,Sunflower Oil,Fats and Oils,1 tsp,13.64,0.0,13.64,0.0,120.55,0,0,0,0,0,0.75,Original
+219,Mayonnaise,Fats and Oils,1 tsp,14.7,0.13,4.91,3.51,57.29,0,0,0,0,0,0.0,Original
+220,Low-Fat Heritage Kefir,Dairy,1 cup,5.0,2.39,1.66,0.7,27.3,0,0,0,0,0,0.0,Synthetic
+221,Plain Garden Yogurt,Dairy,1/2 cup,169.78,0.9,5.49,11.46,98.9,1,0,0,0,0,1.0,Synthetic
+222,Frozen Mix Cottage Cheese,Dairy,1 tsp,148.33,10.75,16.18,14.17,245.3,1,0,0,0,0,0.0,Synthetic
+223,Dried Mix Milk,Dairy,2 tbsp,130.96,8.54,3.81,15.73,131.4,1,0,0,0,0,0.0,Synthetic
+224,Plain Special Sour Cream,Dairy,2 tbsp,259.39,0.9,10.5,29.68,216.8,1,0,0,0,0,0.0,Synthetic
+225,Marinated Variety Whey Drink,Dairy,2 tbsp,5.0,2.37,1.94,0.44,28.7,1,0,0,0,0,0.5,Synthetic
+226,Marinated Selection Curd,Dairy,Palm-sized portion,158.82,11.14,17.06,19.42,275.8,1,0,0,0,0,0.5,Synthetic
+227,Roasted Wild Cheese Slice,Dairy,1/2 cup,106.02,13.8,1.27,5.63,89.1,1,0,0,0,0,0.5,Synthetic
+228,Sun-Dried Special Labneh,Dairy,2 tbsp,180.13,11.58,5.03,12.6,142.0,1,0,0,0,0,0.0,Synthetic
+229,Raw Heritage Cream Cheese,Dairy,Palm-sized portion,177.42,9.54,6.98,10.4,142.6,1,0,0,0,0,1.0,Synthetic
+230,Plain Mix Cream Cheese,Dairy,2 tbsp,266.0,4.49,6.32,3.26,87.9,0,0,0,0,0,0.0,Synthetic
+231,High-Protein Original Soft Cheese,Dairy,1 cup,57.85,8.71,12.38,12.01,194.3,0,0,0,0,0,0.5,Synthetic
+232,Sun-Dried Medley Kefir,Dairy,Palm-sized portion,266.0,8.42,7.15,2.05,106.2,1,0,0,0,0,0.0,Synthetic
+233,Zero-Fat Traditional Whey Drink,Dairy,1 tsp,5.0,1.98,2.73,0.04,32.6,1,0,0,0,0,0.75,Synthetic
+234,Sun-Dried Blend Cream Cheese,Dairy,1/2 cup,182.46,5.35,15.12,18.73,232.4,1,0,0,0,0,0.75,Synthetic
+235,Whole Arabian Skyr,Dairy,1 cup,125.4,11.87,23.88,20.85,345.8,1,0,0,0,0,0.5,Synthetic
+236,Unsalted Wild Cottage Cheese,Dairy,1/2 cup,243.75,3.55,12.93,34.45,268.4,0,0,0,0,0,0.75,Synthetic
+237,Natural Mix Yogurt,Dairy,Palm-sized portion,194.89,2.81,10.92,26.69,216.3,1,0,0,0,0,1.0,Synthetic
+238,Homemade Bahraini Soft Cheese,Dairy,Palm-sized portion,185.69,11.19,14.67,30.79,299.9,1,0,0,0,0,0.25,Synthetic
+239,Seasonal Farm-Fresh Whey Drink,Dairy,1 cup,56.94,0.9,10.21,3.37,109.0,1,0,0,0,0,0.25,Synthetic
+240,Low-Fat Premium Curd,Dairy,Palm-sized portion,86.76,9.72,6.17,0.2,95.2,0,0,0,0,0,0.75,Synthetic
+241,Marinated Traditional Soft Cheese,Dairy,1 tsp,253.38,7.8,0.78,11.22,83.1,0,0,0,0,0,0.75,Synthetic
+242,Baked Arabian Milk,Dairy,Palm-sized portion,129.34,10.08,15.93,4.73,202.6,0,0,0,0,0,0.0,Synthetic
+243,High-Protein Classic Cream Cheese,Dairy,1/2 cup,188.57,8.18,16.9,3.61,199.3,0,0,0,0,0,0.0,Synthetic
+244,Reduced-Fat Original Cheese Slice,Dairy,1/2 cup,140.52,12.21,7.08,8.81,147.8,0,0,0,0,0,0.75,Synthetic
+245,Extra-Virgin Farm-Fresh Labneh,Dairy,Palm-sized portion,59.3,0.9,0.5,4.82,27.4,1,0,0,0,0,0.0,Synthetic
+246,Frozen Arabian Soft Cheese,Dairy,1 cup,5.0,1.08,0.26,3.41,20.3,0,0,0,0,0,0.25,Synthetic
+247,Dried Garden Cheese Slice,Dairy,Palm-sized portion,265.97,2.95,0.5,0.2,17.1,0,0,0,0,0,0.75,Synthetic
+248,Baked Heritage Whey Drink,Dairy,Palm-sized portion,74.09,7.1,8.31,31.29,228.3,1,0,0,0,0,0.0,Synthetic
+249,Fresh Heritage Skyr,Dairy,2 tbsp,53.44,15.16,6.14,31.42,241.6,1,0,0,0,0,0.75,Synthetic
+250,Fresh Bahraini Milk,Dairy,2 tbsp,66.95,14.66,3.08,9.62,124.8,1,0,0,0,0,0.25,Synthetic
+251,Enriched Traditional Cream Cheese,Dairy,1/2 cup,266.0,13.76,9.77,0.51,145.0,1,0,0,0,0,1.0,Synthetic
+252,Seasonal Medley Cream Cheese,Dairy,Palm-sized portion,123.7,11.72,3.2,5.36,97.1,1,0,0,0,0,0.0,Synthetic
+253,Local Special Soft Cheese,Dairy,2 tbsp,150.15,9.61,14.09,25.71,268.1,1,0,0,0,0,0.5,Synthetic
+254,Steamed Gourmet Curd,Dairy,1/2 cup,147.86,16.86,3.44,0.2,99.2,1,0,0,0,0,1.0,Synthetic
+255,Seasonal Arabian Yogurt,Dairy,1 cup,195.61,8.46,10.72,21.62,216.8,0,0,0,0,0,0.0,Synthetic
+256,Pickled Garden Cheese Slice,Dairy,1 tsp,190.29,0.9,4.28,31.4,167.7,0,0,0,0,0,0.75,Synthetic
+257,Pickled Style Whey Drink,Dairy,1 cup,59.68,3.65,2.93,18.2,113.8,1,0,0,0,0,1.0,Synthetic
+258,Plain Mix Milk,Dairy,2 tbsp,28.32,0.9,10.22,7.74,126.5,1,0,0,0,0,0.75,Synthetic
+259,Reduced-Fat Variety Kefir,Dairy,1/2 cup,5.0,3.32,0.45,0.97,21.2,0,0,0,0,0,0.5,Synthetic
+260,High-Protein Style Buttermilk,Dairy,1/2 cup,117.94,6.66,22.63,25.54,332.5,1,0,0,0,0,0.5,Synthetic
+261,Premium Medley Labneh,Dairy,1 tsp,5.0,0.26,2.22,2.28,30.1,1,0,0,0,0,0.75,Synthetic
+262,High-Protein Arabian Cottage Cheese,Dairy,1 tsp,212.56,13.27,8.63,0.2,131.6,0,0,0,0,0,0.75,Synthetic
+263,Steamed Mix Skyr,Dairy,2 tbsp,73.97,0.9,17.54,21.92,249.1,1,0,0,0,0,1.0,Synthetic
+264,Steamed Heritage Soft Cheese,Dairy,2 tbsp,18.99,4.85,0.5,12.1,72.3,1,0,0,0,0,0.25,Synthetic
+265,Plain Mix Sour Cream,Dairy,1 cup,223.17,8.75,4.03,0.2,72.1,1,0,0,0,0,0.75,Synthetic
+266,Reduced-Fat Premium Cottage Cheese,Dairy,1 tsp,38.8,13.3,11.5,8.98,192.6,1,0,0,0,0,0.75,Synthetic
+267,Fortified Original Curd,Dairy,1 cup,94.88,14.88,7.02,4.12,139.2,0,0,0,0,0,0.5,Synthetic
+268,Baked Farm-Fresh Soft Cheese,Dairy,1/2 cup,71.65,11.42,8.63,3.32,136.6,0,0,0,0,0,0.0,Synthetic
+269,Pickled Wild Quark,Dairy,1 cup,213.14,8.54,2.18,1.02,57.9,0,0,0,0,0,1.0,Synthetic
+270,Marinated Arabian Skyr,Dairy,1 tsp,164.86,4.66,2.6,0.2,42.8,1,0,0,0,0,0.75,Synthetic
+271,High-Protein Garden Soft Cheese,Dairy,1/2 cup,114.95,6.84,19.7,17.63,275.2,1,0,0,0,0,0.0,Synthetic
+272,Boiled Bahraini Cheese Slice,Dairy,Palm-sized portion,136.45,12.37,22.9,23.61,350.0,1,0,0,0,0,1.0,Synthetic
+273,Steamed Blend Ricotta,Dairy,1/2 cup,253.97,15.96,9.01,33.39,278.5,0,0,0,0,0,0.25,Synthetic
+274,Seasonal Classic Whey Drink,Dairy,2 tbsp,94.37,7.04,15.03,13.12,215.9,1,0,0,0,0,1.0,Synthetic
+275,Lightly-Salted Premium Soft Cheese,Dairy,1 cup,88.38,12.77,2.92,0.2,78.2,1,0,0,0,0,1.0,Synthetic
+276,Fresh Wild Sour Cream,Dairy,2 tbsp,135.23,13.22,9.37,33.35,270.6,0,0,0,0,0,0.25,Synthetic
+277,Smoked Mix Curd,Dairy,1 cup,210.85,7.31,13.0,23.68,241.0,1,0,0,0,0,1.0,Synthetic
+278,Herb-Infused Gourmet Buttermilk,Dairy,1 tsp,74.43,7.93,0.5,0.2,37.0,0,0,0,0,0,0.5,Synthetic
+279,Reduced-Fat Selection Curd,Dairy,1 tsp,138.46,6.1,9.61,22.14,199.4,1,0,0,0,0,1.0,Synthetic
+280,Spiced Arabian Cream Cheese,Dairy,1/2 cup,34.76,4.05,13.96,7.76,172.9,1,0,0,0,0,0.0,Synthetic
+281,Zero-Fat Classic Labneh,Dairy,1 tsp,57.13,14.32,8.01,16.7,196.2,1,0,0,0,0,0.5,Synthetic
+282,Dried Medley Ricotta,Dairy,1/2 cup,106.98,4.94,13.02,7.01,165.0,1,0,0,0,0,0.75,Synthetic
+283,Dried Farm-Fresh Kefir,Dairy,1 cup,123.21,5.24,10.19,17.54,182.8,1,0,0,0,0,0.0,Synthetic
+284,Zero-Fat Heritage Milk,Dairy,1 tsp,130.09,13.55,4.26,0.2,93.3,1,0,0,0,0,0.5,Synthetic
+285,Spiced Garden Soft Cheese,Dairy,1 tsp,266.0,12.06,7.9,11.38,164.9,0,0,0,0,0,0.0,Synthetic
+286,Fortified Medley Skyr,Dairy,1 tsp,114.47,5.83,8.89,4.03,119.5,1,0,0,0,0,0.25,Synthetic
+287,Steamed Bahraini Cottage Cheese,Dairy,1 tsp,130.96,15.1,8.82,8.39,173.3,1,0,0,0,0,0.0,Synthetic
+288,Organic Wild Labneh,Dairy,1 cup,266.0,7.58,8.58,4.24,124.5,1,0,0,0,0,1.0,Synthetic
+289,Local Farm-Fresh Soft Cheese,Dairy,2 tbsp,266.0,6.5,9.55,0.2,112.8,1,0,0,0,0,0.5,Synthetic
+290,Herb-Infused Traditional Quark,Dairy,1 tsp,5.0,0.94,0.82,2.98,23.1,1,0,0,0,0,0.0,Synthetic
+291,Spiced Bahraini Whey Drink,Dairy,2 tbsp,266.0,9.33,8.88,22.22,206.1,1,0,0,0,0,0.25,Synthetic
+292,Zero-Fat Gourmet Cottage Cheese,Dairy,Palm-sized portion,189.56,7.4,11.54,16.14,198.0,1,0,0,0,0,1.0,Synthetic
+293,Fortified Mix Yogurt,Dairy,1 tsp,77.2,6.03,17.13,26.44,284.1,1,0,0,0,0,0.75,Synthetic
+294,Lightly-Salted Original Curd,Dairy,Palm-sized portion,198.07,6.73,6.93,4.81,108.5,1,0,0,0,0,0.5,Synthetic
+295,Grilled Blend Milk,Dairy,1/2 cup,86.3,2.14,3.2,0.2,38.2,1,0,0,0,0,0.75,Synthetic
+296,Homemade Heritage Yogurt,Dairy,1 tsp,266.0,13.13,11.39,5.51,177.1,0,0,0,0,0,0.5,Synthetic
+297,Extra-Virgin Mix Sour Cream,Dairy,Palm-sized portion,248.29,5.57,2.65,10.23,87.0,1,0,0,0,0,0.5,Synthetic
+298,Roasted Original Ricotta,Dairy,2 tbsp,58.34,11.61,8.15,8.61,154.2,1,0,0,0,0,0.25,Synthetic
+299,Homemade Original Cream Cheese,Dairy,1 cup,191.41,5.09,0.5,23.49,118.8,1,0,0,0,0,0.75,Synthetic
+300,Frozen Wild Cottage Cheese,Dairy,1/2 cup,5.0,1.2,0.82,2.73,23.1,0,0,0,0,0,0.75,Synthetic
+301,Low-Fat Style Skyr,Dairy,1 tsp,64.99,0.9,8.66,14.6,139.9,1,0,0,0,0,0.0,Synthetic
+302,Homemade Special Cottage Cheese,Dairy,Palm-sized portion,266.0,6.83,10.63,12.4,172.6,1,0,0,0,0,0.0,Synthetic
+303,Fresh Arabian Buttermilk,Dairy,1 tsp,89.46,17.65,8.99,27.36,260.9,0,0,0,0,0,1.0,Synthetic
+304,Homemade Selection Kefir,Dairy,2 tbsp,196.16,10.04,3.26,24.26,166.5,1,0,0,0,0,0.5,Synthetic
+305,Dried Premium Ricotta,Dairy,1 tsp,127.85,11.67,17.96,0.2,209.1,1,0,0,0,0,0.75,Synthetic
+306,Lightly-Salted Heritage Cheese Slice,Dairy,1 tsp,261.64,10.1,3.65,19.52,151.3,0,0,0,0,0,0.0,Synthetic
+307,Low-Fat Bahraini Labneh,Dairy,1 tsp,91.41,12.03,5.51,20.68,180.4,1,0,0,0,0,0.25,Synthetic
+308,Unsalted Medley Cheese Slice,Dairy,Palm-sized portion,5.0,1.49,3.22,0.04,35.1,1,0,0,0,0,0.5,Synthetic
+309,Smoked Heritage Whey Drink,Dairy,2 tbsp,266.0,0.93,7.41,21.49,156.4,1,0,0,0,0,0.0,Synthetic
+310,Grilled Bahraini Whey Drink,Dairy,2 tbsp,160.35,8.46,6.38,37.44,241.0,1,0,0,0,0,1.0,Synthetic
+311,Fortified Medley Sour Cream,Dairy,1/2 cup,70.07,3.03,6.11,11.58,113.4,0,0,0,0,0,0.0,Synthetic
+312,Homemade Arabian Labneh,Dairy,1 cup,89.73,8.13,17.22,18.23,260.4,1,0,0,0,0,0.25,Synthetic
+313,Smoked Bahraini Labneh,Dairy,1 tsp,243.63,6.22,9.76,29.48,230.6,1,0,0,0,0,0.75,Synthetic
+314,Roasted Heritage Buttermilk,Dairy,Palm-sized portion,252.89,12.95,6.92,17.64,184.6,1,0,0,0,0,0.5,Synthetic
+315,Local Wild Soft Cheese,Dairy,1 tsp,68.74,7.85,5.08,30.94,200.9,1,0,0,0,0,1.0,Synthetic
+316,Fortified Mix Quark,Dairy,1/2 cup,167.73,3.69,0.5,0.2,20.1,0,0,0,0,0,0.25,Synthetic
+317,High-Protein Garden Ricotta,Dairy,Palm-sized portion,137.24,9.17,8.66,6.22,139.5,1,0,0,0,0,0.5,Synthetic
+318,Premium Original Cream Cheese,Dairy,2 tbsp,200.69,12.48,6.6,18.23,182.2,1,0,0,0,0,0.5,Synthetic
+319,Plain Style Cream Cheese,Dairy,1/2 cup,125.5,7.4,6.78,3.94,106.4,1,0,0,0,0,1.0,Synthetic
+320,Whole Original Cottage Cheese,Dairy,1/2 cup,148.01,10.46,0.5,36.12,190.8,1,0,0,0,0,0.25,Synthetic
+321,Whipped Premium Soft Cheese,Dairy,2 tbsp,104.94,10.01,7.07,0.2,104.5,0,0,0,0,0,0.0,Synthetic
+322,Whole Farm-Fresh Buttermilk,Dairy,Palm-sized portion,156.1,16.23,15.06,6.44,226.2,1,0,0,0,0,0.5,Synthetic
+323,Whole Style Whey Drink,Dairy,1/2 cup,189.75,9.55,2.03,13.04,108.6,1,0,0,0,0,0.75,Synthetic
+324,Whipped Wild Sour Cream,Dairy,1 tsp,5.0,1.51,0.98,2.27,23.9,1,0,0,0,0,0.75,Synthetic
+325,Premium Original Cottage Cheese,Dairy,1/2 cup,31.39,4.4,7.96,3.24,102.2,1,0,0,0,0,0.75,Synthetic
+326,Spiced Classic Cheese Slice,Dairy,Palm-sized portion,266.0,7.09,15.45,26.78,274.5,0,0,0,0,0,1.0,Synthetic
+327,Plain Variety Cream Cheese,Dairy,1 tsp,266.0,0.9,0.5,16.3,73.3,0,0,0,0,0,0.75,Synthetic
+328,Unsalted Style Quark,Dairy,1/2 cup,139.4,6.76,2.98,17.05,122.1,1,0,0,0,0,0.25,Synthetic
+329,Grilled Original Kefir,Dairy,1/2 cup,166.71,8.26,0.5,24.62,136.0,0,0,0,0,0,0.5,Synthetic
+330,High-Protein Farm-Fresh Milk,Dairy,1/2 cup,5.0,2.0,0.86,1.89,23.3,0,0,0,0,0,0.25,Synthetic
+331,Smoked Selection Buttermilk,Dairy,1 tsp,219.79,4.28,14.65,8.01,181.0,0,0,0,0,0,0.75,Synthetic
+332,Plain Bahraini Cheese Slice,Dairy,1 tsp,266.0,9.65,5.99,23.73,187.4,0,0,0,0,0,0.0,Synthetic
+333,Fresh Farm-Fresh Quark,Dairy,1 cup,18.67,7.58,0.5,8.64,69.4,1,0,0,0,0,0.5,Synthetic
+334,Boiled Premium Whey Drink,Dairy,1/2 cup,58.32,13.29,13.21,26.76,279.1,1,0,0,0,0,0.25,Synthetic
+335,Zero-Fat Medley Yogurt,Dairy,1 tsp,150.19,11.8,10.52,0.2,142.7,1,0,0,0,0,0.5,Synthetic
+336,Whole Traditional Ricotta,Dairy,1/2 cup,33.67,3.95,3.61,24.42,146.0,1,0,0,0,0,0.75,Synthetic
+337,Natural Selection Whey Drink,Dairy,1 tsp,111.48,3.79,8.04,25.42,189.2,1,0,0,0,0,0.0,Synthetic
+338,Frozen Heritage Quark,Dairy,1 tsp,173.17,4.89,17.59,19.01,253.9,1,0,0,0,0,0.0,Synthetic
+339,Unsalted Style Kefir,Dairy,1 cup,201.49,9.56,8.94,22.72,209.6,0,0,0,0,0,0.75,Synthetic
+340,Natural Premium Sour Cream,Dairy,1 cup,266.0,3.73,7.99,19.4,164.4,0,0,0,0,0,0.75,Synthetic
+341,Organic Original Kefir,Dairy,2 tbsp,66.64,7.48,5.81,0.2,83.0,1,0,0,0,0,0.75,Synthetic
+342,High-Protein Variety Kefir,Dairy,1 cup,206.68,5.05,9.42,21.55,191.2,0,0,0,0,0,0.75,Synthetic
+343,Natural Bahraini Quark,Dairy,1/2 cup,266.0,8.96,6.28,27.48,202.3,1,0,0,0,0,0.75,Synthetic
+344,Enriched Mix Sour Cream,Dairy,1 cup,15.34,2.85,2.89,8.83,72.7,1,0,0,0,0,1.0,Synthetic
+345,Frozen Premium Cod Fillet,Protein,Palm-sized portion,75.1,19.68,2.21,0.25,99.6,1,0,0,0,0,0.0,Synthetic
+346,Lightly-Salted Medley Beef Steak,Protein,1 medium chicken thigh,37.07,13.7,4.4,1.54,100.6,0,0,0,0,1,0.5,Synthetic
+347,Local Farm-Fresh Lentils,Protein,1 piece,62.15,20.11,11.43,1.9,190.9,1,0,0,0,1,0.25,Synthetic
+348,Extra-Virgin Traditional White Beans,Protein,1/2 small chicken breast,77.47,20.01,6.42,2.1,146.2,0,0,0,0,0,0.5,Synthetic
+349,Boiled Traditional White Beans,Protein,1 piece,69.88,20.21,5.97,0.0,134.6,1,0,0,0,1,0.5,Synthetic
+350,High-Protein Farm-Fresh Beef Strips,Protein,1 piece,110.38,17.21,7.44,1.07,140.1,0,0,0,0,1,0.25,Synthetic
+351,Roasted Special Lamb Chop,Protein,1 piece,63.75,8.3,2.83,0.0,58.7,1,0,1,0,1,0.5,Synthetic
+352,Plain Special Mackerel Fillet,Protein,1 piece,84.16,20.8,6.05,4.68,156.4,0,0,0,0,0,1.0,Synthetic
+353,Enriched Medley Tuna Fillet,Protein,1 egg,5.0,1.48,3.05,0.22,34.2,0,0,0,0,0,0.75,Synthetic
+354,Enriched Style Chickpeas,Protein,Palm-sized portion,106.7,22.58,7.11,2.63,164.8,0,0,0,0,1,1.0,Synthetic
+355,Extra-Virgin Variety White Beans,Protein,1/2 small chicken breast,72.6,25.51,2.13,5.26,142.2,1,0,1,0,1,1.0,Synthetic
+356,Marinated Classic Chickpeas,Protein,Palm-sized portion,24.48,19.03,4.23,0.0,114.2,0,0,0,0,1,0.25,Synthetic
+357,Fresh Gourmet Shrimp,Protein,Palm-sized portion,120.68,18.72,6.95,1.46,143.3,0,0,0,0,0,0.75,Synthetic
+358,Natural Gourmet Chickpeas,Protein,1/2 small chicken breast,99.75,8.01,0.5,1.73,43.5,1,0,0,0,0,0.75,Synthetic
+359,Smoked Wild Tuna Fillet,Protein,1 medium chicken thigh,99.18,14.87,12.07,0.02,168.2,0,0,0,0,0,0.25,Synthetic
+360,Reduced-Fat Style Edamame,Protein,1 egg,81.87,17.64,0.5,0.14,75.6,0,0,0,0,1,0.25,Synthetic
+361,Herb-Infused Selection Turkey Slices,Protein,1 egg,67.88,21.04,12.73,1.88,206.3,1,0,1,0,1,0.25,Synthetic
+362,Enriched Classic Mackerel Fillet,Protein,1 piece,60.18,21.24,11.08,4.9,204.3,0,0,0,0,1,0.25,Synthetic
+363,Natural Selection Chicken Breast,Protein,1 egg,87.42,6.2,6.39,0.0,82.3,0,0,0,0,0,0.25,Synthetic
+364,Herb-Infused Heritage Tuna Fillet,Protein,1/2 small chicken breast,96.85,17.67,8.13,1.81,151.1,1,0,0,0,1,0.0,Synthetic
+365,Whipped Variety Turkey Slices,Protein,1/2 small chicken breast,66.48,22.3,0.5,1.63,100.2,0,0,0,0,1,0.0,Synthetic
+366,Dried Arabian Mackerel Fillet,Protein,1 medium chicken thigh,101.33,10.62,0.5,0.67,49.7,1,0,1,0,0,1.0,Synthetic
+367,Enriched Heritage Edamame,Protein,1 medium chicken thigh,106.01,20.93,3.69,0.0,116.9,1,0,0,0,1,0.25,Synthetic
+368,Baked Variety Cod Fillet,Protein,Palm-sized portion,90.87,21.4,5.94,1.45,144.9,0,0,0,0,1,0.75,Synthetic
+369,Homemade Traditional Mackerel Fillet,Protein,1 medium chicken thigh,108.06,20.04,5.77,3.15,144.7,0,0,0,0,1,0.5,Synthetic
+370,Sun-Dried Classic Salmon Fillet,Protein,1/2 small chicken breast,84.89,10.55,12.04,1.28,155.7,1,0,0,0,1,1.0,Synthetic
+371,Natural Variety Tuna Fillet,Protein,1 piece,91.09,30.64,3.83,0.0,157.0,0,0,0,0,1,0.0,Synthetic
+372,Low-Fat Variety Beef Strips,Protein,1 medium chicken thigh,55.54,20.81,3.0,0.15,110.8,0,0,1,0,1,0.25,Synthetic
+373,Extra-Virgin Gourmet Lamb Chop,Protein,1 medium chicken thigh,55.42,18.42,5.81,0.96,129.8,1,0,0,0,1,0.0,Synthetic
+374,Plain Classic Tempeh,Protein,Palm-sized portion,60.65,11.53,7.47,0.7,116.1,0,0,0,0,0,0.75,Synthetic
+375,Enriched Blend Turkey Slices,Protein,1 piece,62.88,7.3,0.5,0.0,33.7,1,0,0,0,1,0.25,Synthetic
+376,Homemade Gourmet Edamame,Protein,Palm-sized portion,96.49,18.62,10.35,2.06,175.9,0,0,0,0,0,0.75,Synthetic
+377,Reduced-Fat Traditional Tofu,Protein,1 egg,77.32,6.44,0.5,0.0,30.3,0,0,0,0,0,0.5,Synthetic
+378,Unsalted Blend Pork Tenderloin,Protein,1 medium chicken thigh,86.85,20.34,4.15,0.0,118.7,1,0,0,0,0,0.0,Synthetic
+379,Sun-Dried Special Chicken Breast,Protein,Palm-sized portion,118.61,23.87,4.01,3.19,144.3,0,0,0,0,1,0.5,Synthetic
+380,Fresh Garden Beef Steak,Protein,Palm-sized portion,80.91,22.82,12.3,1.84,209.3,1,0,0,0,1,1.0,Synthetic
+381,Whole Gourmet Pork Tenderloin,Protein,Palm-sized portion,73.5,21.2,6.46,0.0,142.9,0,0,0,0,0,1.0,Synthetic
+382,Herb-Infused Bahraini Salmon Fillet,Protein,1/2 small chicken breast,91.1,21.46,13.67,0.65,211.5,1,0,0,0,0,0.75,Synthetic
+383,Raw Classic White Beans,Protein,1 egg,48.13,30.57,4.48,0.0,162.6,1,0,0,0,0,0.0,Synthetic
+384,Local Blend Turkey Slices,Protein,1/2 small chicken breast,36.08,11.53,14.19,0.0,173.8,0,0,0,0,0,0.5,Synthetic
+385,Marinated Classic Salmon Fillet,Protein,Palm-sized portion,74.1,27.27,7.85,2.72,190.6,1,0,0,0,1,0.75,Synthetic
+386,Whole Arabian Sardines,Protein,1 piece,64.07,23.18,10.37,1.42,191.7,0,0,0,0,1,0.0,Synthetic
+387,Smoked Gourmet Salmon Fillet,Protein,1 piece,83.23,18.72,1.69,5.23,111.0,0,0,0,0,1,0.75,Synthetic
+388,Whipped Heritage Lentils,Protein,Palm-sized portion,75.87,14.63,5.51,0.26,109.2,0,0,0,0,1,1.0,Synthetic
+389,Plain Arabian Sardines,Protein,1 piece,113.43,22.4,1.21,0.81,103.7,0,0,0,0,1,0.0,Synthetic
+390,Natural Traditional Lentils,Protein,1/2 small chicken breast,97.76,31.0,11.23,2.64,235.6,1,0,0,0,0,1.0,Synthetic
+391,Whipped Medley Black Beans,Protein,1 egg,65.9,17.38,7.23,2.57,144.9,1,0,0,0,0,0.0,Synthetic
+392,Spiced Original Mackerel Fillet,Protein,1 medium chicken thigh,97.03,17.23,2.75,3.17,106.3,0,0,0,0,0,0.0,Synthetic
+393,Fresh Garden Salmon Fillet,Protein,1 egg,57.68,25.18,5.27,3.91,163.8,0,0,0,0,0,0.75,Synthetic
+394,Steamed Classic Tofu,Protein,1 medium chicken thigh,84.66,22.4,3.09,2.9,129.0,0,0,0,0,1,0.0,Synthetic
+395,Extra-Virgin Garden Turkey Slices,Protein,1 egg,78.97,16.65,0.5,0.1,71.5,1,0,0,0,1,0.5,Synthetic
+396,Extra-Virgin Blend Tempeh,Protein,1 egg,144.0,31.0,0.5,0.31,129.7,1,0,0,0,1,0.75,Synthetic
+397,Homemade Arabian Chicken Breast,Protein,1 medium chicken thigh,84.02,17.01,10.35,0.29,162.3,1,0,0,0,1,0.25,Synthetic
+398,Enriched Medley Shrimp,Protein,1 piece,98.83,18.82,1.19,2.98,97.9,0,0,0,0,1,0.25,Synthetic
+399,Seasonal Selection Chicken Breast,Protein,1 piece,109.5,10.85,0.5,0.0,47.9,0,0,0,0,1,1.0,Synthetic
+400,Low-Fat Heritage Tuna Fillet,Protein,1 medium chicken thigh,76.88,15.05,4.76,0.0,103.0,0,0,0,0,1,1.0,Synthetic
+401,Marinated Arabian Beef Steak,Protein,1 egg,65.92,21.77,4.07,5.0,143.7,1,0,0,0,0,0.0,Synthetic
+402,Homemade Wild Mackerel Fillet,Protein,1/2 small chicken breast,91.23,26.55,5.18,0.03,152.9,0,0,0,0,1,1.0,Synthetic
+403,Local Bahraini Tuna Fillet,Protein,1 medium chicken thigh,68.03,25.68,0.5,0.1,107.6,0,0,0,0,1,0.0,Synthetic
+404,Extra-Virgin Premium Cod Fillet,Protein,1 piece,143.3,23.93,0.5,0.4,101.8,0,0,0,0,1,0.25,Synthetic
+405,Spiced Wild Egg Omelette,Protein,1 egg,88.97,19.03,9.14,1.75,165.4,0,0,0,0,1,0.75,Synthetic
+406,Homemade Original Tuna Fillet,Protein,1 egg,82.55,1.95,10.16,0.0,99.2,0,0,1,0,1,0.75,Synthetic
+407,Seasonal Gourmet Shrimp,Protein,1 egg,69.57,23.45,0.5,2.06,106.5,1,0,0,0,0,1.0,Synthetic
+408,Dried Style Tuna Fillet,Protein,1 medium chicken thigh,99.63,19.95,3.24,2.49,118.9,0,0,1,0,0,0.5,Synthetic
+409,Fresh Medley Turkey Slices,Protein,1 piece,103.79,17.4,4.4,0.12,109.7,0,0,1,0,0,0.75,Synthetic
+410,Fortified Original Lamb Chop,Protein,1 piece,105.78,14.73,6.28,0.0,115.4,0,0,0,0,1,0.0,Synthetic
+411,Steamed Original Sardines,Protein,1 medium chicken thigh,84.02,8.93,12.44,2.94,159.4,1,0,0,0,1,0.25,Synthetic
+412,Premium Medley Black Beans,Protein,1 piece,96.28,17.65,7.22,0.71,138.4,1,0,0,0,1,0.75,Synthetic
+413,Extra-Virgin Classic Chicken Breast,Protein,1 piece,80.68,12.36,4.72,2.24,100.9,1,0,0,0,1,0.5,Synthetic
+414,High-Protein Variety White Beans,Protein,Palm-sized portion,115.15,14.33,11.68,3.5,176.4,0,0,0,0,0,0.0,Synthetic
+415,Frozen Style Cod Fillet,Protein,Palm-sized portion,91.48,15.05,5.2,1.13,111.5,0,0,0,0,0,0.75,Synthetic
+416,Premium Wild Tempeh,Protein,Palm-sized portion,23.93,14.16,5.91,2.78,121.0,0,0,0,0,0,0.75,Synthetic
+417,Seasonal Bahraini Mackerel Fillet,Protein,1 egg,75.7,21.38,8.38,0.0,160.9,0,0,0,0,0,0.25,Synthetic
+418,Boiled Selection Egg Omelette,Protein,1 medium chicken thigh,91.55,31.0,4.67,2.07,174.3,1,0,0,0,0,0.75,Synthetic
+419,Whole Farm-Fresh Tofu,Protein,1 medium chicken thigh,93.91,10.73,6.43,1.21,105.6,1,0,0,0,0,1.0,Synthetic
+420,Whole Mix Salmon Fillet,Protein,1 piece,123.23,12.1,1.09,0.44,60.0,0,0,0,0,1,0.5,Synthetic
+421,Local Farm-Fresh Edamame,Protein,Palm-sized portion,58.21,15.81,5.52,1.89,120.5,1,0,0,0,1,0.75,Synthetic
+422,Baked Selection Beef Strips,Protein,Palm-sized portion,93.02,9.01,7.16,0.25,101.5,1,0,0,0,0,0.25,Synthetic
+423,Raw Medley Tuna Fillet,Protein,1 piece,144.0,11.58,3.36,4.32,93.8,0,0,0,0,0,0.5,Synthetic
+424,Smoked Selection Black Beans,Protein,Palm-sized portion,67.01,13.31,4.81,0.54,98.7,1,0,0,0,0,0.75,Synthetic
+425,Baked Wild Beef Steak,Protein,1/2 small chicken breast,105.62,23.56,2.14,0.44,115.3,1,0,1,0,1,1.0,Synthetic
+426,Dried Farm-Fresh White Beans,Protein,1/2 small chicken breast,82.55,10.72,0.62,2.05,56.7,1,0,0,0,1,1.0,Synthetic
+427,Pickled Style Egg Omelette,Protein,1 medium chicken thigh,102.32,15.98,13.0,0.0,180.9,1,0,0,0,0,0.25,Synthetic
+428,Low-Fat Wild Egg Omelette,Protein,1 medium chicken thigh,93.89,27.22,0.5,0.0,113.4,1,0,0,0,1,0.5,Synthetic
+429,Extra-Virgin Wild Lentils,Protein,1 medium chicken thigh,100.12,13.87,9.71,0.0,142.9,0,0,0,0,1,0.5,Synthetic
+430,Low-Fat Arabian Salmon Fillet,Protein,Palm-sized portion,89.12,3.2,3.88,1.45,53.5,1,0,1,0,0,0.0,Synthetic
+431,Whole Wild Egg Omelette,Protein,1 medium chicken thigh,144.0,11.5,0.5,2.64,61.1,1,0,0,0,1,0.5,Synthetic
+432,Enriched Variety Tofu,Protein,Palm-sized portion,88.02,23.33,0.5,0.0,97.8,0,0,0,0,0,0.25,Synthetic
+433,Organic Premium Egg Omelette,Protein,Palm-sized portion,90.01,11.1,5.13,3.0,102.6,0,0,0,0,0,0.0,Synthetic
+434,Pickled Traditional Edamame,Protein,1 medium chicken thigh,85.88,16.23,5.17,0.44,113.2,0,0,0,0,0,1.0,Synthetic
+435,Baked Blend White Beans,Protein,1/2 small chicken breast,54.23,20.94,0.5,2.07,96.5,0,0,0,0,0,0.25,Synthetic
+436,Extra-Virgin Medley Edamame,Protein,1/2 small chicken breast,96.7,19.8,7.48,0.0,146.5,1,0,0,0,0,0.25,Synthetic
+437,Frozen Medley Mackerel Fillet,Protein,Palm-sized portion,114.38,24.09,7.49,0.0,163.8,0,0,0,0,0,0.25,Synthetic
+438,Homemade Variety White Beans,Protein,Palm-sized portion,97.81,7.46,0.5,3.46,48.2,1,0,1,0,0,0.25,Synthetic
+439,Marinated Variety Tofu,Protein,1 medium chicken thigh,96.06,20.02,13.68,0.79,206.4,0,0,0,0,1,0.0,Synthetic
+440,Marinated Premium Salmon Fillet,Protein,1/2 small chicken breast,144.0,13.43,4.47,1.66,100.6,0,0,0,0,0,0.5,Synthetic
+441,Extra-Virgin Garden Egg Omelette,Protein,1/2 small chicken breast,89.71,9.97,9.63,3.81,141.8,1,0,0,0,1,1.0,Synthetic
+442,Steamed Arabian Lamb Chop,Protein,1 egg,57.8,25.44,8.56,3.53,192.9,0,0,0,0,0,0.0,Synthetic
+443,Pickled Wild Shrimp,Protein,1 egg,64.87,7.74,11.2,0.0,131.8,1,0,0,0,1,0.25,Synthetic
+444,Premium Special Shrimp,Protein,1 egg,71.32,16.84,1.29,0.24,79.9,0,0,0,0,1,0.25,Synthetic
+445,Fresh Variety Sardines,Protein,1 medium chicken thigh,80.58,23.77,0.5,0.0,99.6,0,0,0,0,0,0.75,Synthetic
+446,Seasonal Garden Beef Steak,Protein,1 piece,65.47,22.1,2.55,3.28,124.5,0,0,0,0,1,0.75,Synthetic
+447,Fresh Blend Turkey Slices,Protein,1 piece,45.87,14.83,8.84,1.05,143.1,0,0,0,0,0,0.5,Synthetic
+448,Spiced Premium Cod Fillet,Protein,Palm-sized portion,57.77,14.14,3.46,1.52,93.8,0,0,1,0,0,0.75,Synthetic
+449,Whole Original Beef Strips,Protein,1/2 small chicken breast,101.91,16.98,7.62,4.88,156.0,1,0,0,0,0,0.25,Synthetic
+450,Roasted Arabian Chickpeas,Protein,1 egg,52.17,10.12,11.61,0.0,145.0,0,0,0,0,0,0.25,Synthetic
+451,Boiled Mix Salmon Fillet,Protein,Palm-sized portion,40.6,13.26,6.92,1.73,122.2,0,0,1,0,0,0.75,Synthetic
+452,Extra-Virgin Farm-Fresh Beef Strips,Protein,Palm-sized portion,67.36,6.15,0.98,3.67,48.1,0,0,0,0,1,1.0,Synthetic
+453,Extra-Virgin Variety Chicken Breast,Protein,Palm-sized portion,87.35,23.0,9.83,2.7,191.3,0,0,1,0,0,1.0,Synthetic
+454,Plain Heritage Sardines,Protein,1 medium chicken thigh,116.08,9.75,5.73,0.32,91.9,0,0,0,0,1,0.75,Synthetic
+455,Whipped Blend Turkey Slices,Protein,1 piece,96.04,22.22,5.38,4.0,153.3,1,0,1,0,1,0.25,Synthetic
+456,Pickled Mix Turkey Slices,Protein,1 egg,58.15,16.16,4.15,0.0,102.0,1,0,0,0,1,0.25,Synthetic
+457,Pickled Heritage Tofu,Protein,Palm-sized portion,129.05,23.87,6.68,0.0,155.6,0,0,0,0,0,0.25,Synthetic
+458,Fortified Blend Mackerel Fillet,Protein,Palm-sized portion,51.3,22.79,7.05,0.05,154.8,0,0,0,0,1,0.75,Synthetic
+459,Roasted Arabian Tuna Fillet,Protein,1 medium chicken thigh,76.86,11.94,11.74,1.76,160.5,0,0,0,0,1,0.75,Synthetic
+460,Fresh Traditional Sardines,Protein,1/2 small chicken breast,56.18,11.52,9.07,3.51,141.8,0,0,0,0,0,0.5,Synthetic
+461,Herb-Infused Premium Sardines,Protein,Palm-sized portion,122.09,15.69,1.6,3.05,89.4,0,0,0,0,0,0.25,Synthetic
+462,Enriched Selection Cod Fillet,Protein,1 egg,107.6,18.81,10.45,0.0,169.3,0,0,0,0,0,0.75,Synthetic
+463,Marinated Farm-Fresh Mackerel Fillet,Protein,Palm-sized portion,71.77,27.14,5.77,0.0,160.5,0,0,0,0,1,0.25,Synthetic
+464,Homemade Mix Tempeh,Protein,1 medium chicken thigh,43.93,9.48,3.42,2.86,80.1,1,0,0,0,0,0.25,Synthetic
+465,Marinated Special Chickpeas,Protein,Palm-sized portion,58.9,29.39,0.5,0.89,125.6,0,0,0,0,1,0.25,Synthetic
+466,Organic Variety Chickpeas,Protein,Palm-sized portion,47.18,20.96,5.25,0.0,131.1,1,0,1,0,0,1.0,Synthetic
+467,Marinated Classic Tuna Fillet,Protein,Palm-sized portion,93.82,13.53,1.81,0.0,70.4,0,0,0,0,1,0.75,Synthetic
+468,Grilled Bahraini Tuna Fillet,Protein,1 piece,76.35,23.53,0.5,0.0,98.6,0,0,0,0,1,0.75,Synthetic
+469,Raw Bahraini Beef Strips,Protein,1/2 small chicken breast,133.06,23.52,5.74,0.0,145.7,0,0,0,0,1,1.0,Synthetic
+470,Unsalted Mix Sardines,Protein,1 egg,51.93,12.49,16.14,0.35,196.6,1,0,0,0,0,0.75,Synthetic
+471,Plain Special Shrimp,Protein,1/2 small chicken breast,99.11,20.32,11.4,3.14,196.4,0,0,0,0,0,0.75,Synthetic
+472,Whipped Style White Beans,Protein,Palm-sized portion,114.52,19.92,5.39,1.13,132.7,0,0,0,0,1,0.75,Synthetic
+473,Raw Special Cod Fillet,Protein,1 medium chicken thigh,52.1,22.15,5.36,1.48,142.8,0,0,0,0,1,0.75,Synthetic
+474,Local Selection Beef Steak,Protein,1 medium chicken thigh,81.19,5.84,5.03,0.07,68.9,1,0,0,0,0,0.0,Synthetic
+475,Roasted Medley Tuna Fillet,Protein,1 piece,107.07,24.66,1.5,1.09,116.5,0,0,0,0,0,1.0,Synthetic
+476,Smoked Premium Pork Tenderloin,Protein,1 medium chicken thigh,60.6,14.15,5.41,1.23,110.2,0,0,1,0,0,1.0,Synthetic
+477,High-Protein Special Tempeh,Protein,1 egg,55.41,28.41,5.59,0.0,163.9,0,0,0,0,1,0.75,Synthetic
+478,Organic Garden Lamb Chop,Protein,1 medium chicken thigh,72.68,7.07,4.97,0.0,73.0,1,0,0,0,0,0.25,Synthetic
+479,Fortified Variety White Beans,Protein,1 egg,96.33,23.6,6.61,4.07,170.2,1,0,0,0,1,0.75,Synthetic
+480,Herb-Infused Special Salmon Fillet,Protein,1 piece,106.74,9.44,5.1,0.0,83.7,0,0,1,0,0,0.0,Synthetic
+481,Pickled Bahraini Mackerel Fillet,Protein,Palm-sized portion,109.99,16.99,4.59,2.98,121.2,0,0,0,0,1,0.0,Synthetic
+482,Unsalted Arabian Tuna Fillet,Protein,1 piece,86.2,19.23,6.82,2.08,146.6,0,0,0,0,1,0.25,Synthetic
+483,Baked Original Chickpeas,Protein,1 piece,132.45,25.92,10.44,2.1,206.0,1,0,0,0,1,0.5,Synthetic
+484,Raw Premium Chickpeas,Protein,1 piece,10.25,7.56,1.73,0.45,47.6,0,0,0,0,1,0.75,Synthetic
+485,Premium Heritage Tuna Fillet,Protein,1/2 small chicken breast,87.75,5.46,0.85,0.0,29.5,0,0,0,0,0,0.75,Synthetic
+486,Baked Classic Salmon Fillet,Protein,1/2 small chicken breast,46.54,5.6,9.25,0.0,105.7,0,0,0,0,0,0.0,Synthetic
+487,Frozen Bahraini Lamb Chop,Protein,1 piece,96.41,26.68,4.74,0.81,152.6,0,0,0,0,1,0.5,Synthetic
+488,Roasted Bahraini Beef Steak,Protein,1 piece,75.43,20.39,7.04,0.0,144.9,0,0,0,0,0,0.75,Synthetic
+489,Reduced-Fat Arabian Tofu,Protein,1/2 small chicken breast,106.7,25.77,0.5,5.25,128.6,1,0,0,0,0,0.75,Synthetic
+490,Raw Style Beef Steak,Protein,1 medium chicken thigh,103.18,18.59,1.8,0.47,92.4,1,0,0,0,0,0.5,Synthetic
+491,Smoked Gourmet Black Beans,Protein,1 piece,103.5,22.62,7.42,2.16,165.9,0,0,1,0,0,1.0,Synthetic
+492,Roasted Bahraini Shrimp,Protein,Palm-sized portion,81.33,9.2,7.19,2.79,112.7,0,0,0,0,1,0.5,Synthetic
+493,Steamed Blend Beef Strips,Protein,1/2 small chicken breast,53.77,12.22,3.75,0.97,86.5,0,0,0,0,1,0.5,Synthetic
+494,Raw Farm-Fresh Beef Strips,Protein,1 egg,38.41,18.55,6.96,2.36,146.3,0,0,0,0,1,0.5,Synthetic
+495,Boiled Variety Egg Omelette,Protein,1 piece,90.1,11.73,0.5,0.0,51.4,1,0,1,0,1,0.75,Synthetic
+496,Seasonal Heritage Turkey Slices,Protein,1/2 small chicken breast,133.33,6.7,4.75,2.92,81.2,1,0,0,0,1,0.0,Synthetic
+497,Roasted Special Tuna Fillet,Protein,1 medium chicken thigh,70.3,31.0,8.66,2.49,211.9,1,0,1,0,1,1.0,Synthetic
+498,Homemade Premium Tofu,Protein,Palm-sized portion,109.46,13.64,0.5,1.61,65.5,0,0,0,0,0,0.75,Synthetic
+499,Dried Medley Lentils,Protein,1 egg,47.98,15.85,17.17,2.42,227.6,0,0,1,0,1,0.0,Synthetic
+500,Smoked Wild Chickpeas,Protein,1 piece,134.66,28.9,1.37,0.0,127.9,1,0,0,0,1,0.0,Synthetic
+501,Lightly-Salted Classic Egg Omelette,Protein,1 medium chicken thigh,75.98,19.22,8.4,1.63,159.0,1,0,1,0,0,0.25,Synthetic
+502,Natural Selection White Beans,Protein,Palm-sized portion,62.99,14.88,10.86,0.76,160.3,1,0,1,0,0,1.0,Synthetic
+503,Whole Mix Turkey Slices,Protein,1 piece,107.58,14.12,8.29,0.22,132.0,0,0,0,0,0,0.5,Synthetic
+504,Roasted Variety Black Beans,Protein,1 egg,35.14,15.51,15.52,1.23,206.6,0,0,0,0,0,1.0,Synthetic
+505,Pickled Wild Cod Fillet,Protein,1/2 small chicken breast,70.95,23.08,3.71,3.53,139.8,1,0,1,0,1,0.5,Synthetic
+506,Steamed Wild Beef Steak,Protein,Palm-sized portion,116.75,8.17,7.28,1.76,105.2,1,0,0,0,1,0.25,Synthetic
+507,Local Original Chicken Breast,Protein,1 piece,106.32,21.37,11.33,0.0,187.4,0,0,0,0,0,1.0,Synthetic
+508,Enriched Mix Beef Steak,Protein,1 medium chicken thigh,60.05,8.61,7.32,0.93,104.0,1,0,0,0,0,0.75,Synthetic
+509,Low-Fat Arabian Tempeh,Protein,1 piece,89.92,15.48,10.1,0.0,152.8,0,0,0,0,1,0.0,Synthetic
+510,Pickled Farm-Fresh Tuna Fillet,Protein,1 medium chicken thigh,68.37,22.79,7.3,1.53,163.0,1,0,1,0,1,0.0,Synthetic
+511,Lightly-Salted Bahraini Shrimp,Protein,Palm-sized portion,117.04,27.82,0.5,1.77,122.9,1,0,0,0,1,0.75,Synthetic
+512,Reduced-Fat Wild Cod Fillet,Protein,1 medium chicken thigh,86.48,19.77,3.14,0.1,107.7,0,0,0,0,1,0.75,Synthetic
+513,Low-Fat Arabian Lentils,Protein,Palm-sized portion,46.67,20.96,13.76,2.01,215.7,1,0,0,0,0,0.25,Synthetic
+514,Extra-Virgin Selection Chickpeas,Protein,1/2 small chicken breast,37.09,21.14,3.95,1.39,125.7,1,0,0,0,0,1.0,Synthetic
+515,Cold-Pressed Medley Sardines,Protein,1 piece,54.67,11.37,3.23,0.0,74.5,0,0,0,0,0,1.0,Synthetic
+516,Pickled Wild Beef Steak,Protein,1 piece,104.42,21.73,4.63,2.72,139.5,0,0,0,0,1,0.5,Synthetic
+517,Local Blend Edamame,Protein,1 piece,101.38,24.27,6.42,0.07,155.1,1,0,0,0,1,0.0,Synthetic
+518,Sun-Dried Style White Beans,Protein,1 piece,90.99,20.87,4.04,1.74,126.8,1,0,0,0,1,1.0,Synthetic
+519,Homemade Arabian Mackerel Fillet,Protein,1 egg,83.04,10.7,3.61,0.0,75.3,1,0,0,0,1,1.0,Synthetic
+520,Spiced Variety Mackerel Fillet,Protein,1/2 small chicken breast,83.67,3.01,4.93,3.05,68.6,0,0,0,0,1,0.0,Synthetic
+521,Unsalted Gourmet Cod Fillet,Protein,Palm-sized portion,73.1,17.54,7.33,1.08,140.4,1,0,0,0,1,0.75,Synthetic
+522,Local Traditional Tempeh,Protein,1 piece,91.27,6.61,6.51,0.97,88.9,0,0,0,0,1,0.25,Synthetic
+523,Pickled Gourmet Whole Wheat Bread,Grains,1 small slice,63.29,2.88,1.22,8.97,58.4,1,1,0,1,0,0.0,Synthetic
+524,Whipped Variety Pasta,Grains,1 cup,125.83,0.0,0.0,62.82,251.3,0,1,0,1,1,0.25,Synthetic
+525,Seasonal Traditional Corn Tortilla,Grains,1 slice,58.67,15.47,3.24,35.94,234.8,1,1,0,1,0,0.0,Synthetic
+526,Fortified Classic Sorghum,Grains,1 medium roll,141.36,6.26,0.0,52.45,234.8,1,1,0,1,0,0.0,Synthetic
+527,Lightly-Salted Traditional Amaranth,Grains,1/4 loaf,167.41,0.9,1.06,41.17,177.8,1,1,0,1,0,0.0,Synthetic
+528,Cold-Pressed Garden Barley,Grains,1/4 loaf,196.7,19.35,6.9,54.54,357.7,1,1,0,1,0,0.0,Synthetic
+529,Marinated Bahraini Oatmeal,Grains,1 cup,30.71,9.19,0.0,2.82,48.0,1,1,1,1,0,0.5,Synthetic
+530,Roasted Wild Millet Porridge,Grains,1/4 loaf,108.7,0.75,0.0,47.97,194.9,1,1,0,0,0,0.0,Synthetic
+531,Roasted Mix Amaranth,Grains,1 slice,110.03,0.58,2.88,54.76,247.3,1,1,0,1,0,0.5,Synthetic
+532,Baked Medley Buckwheat,Grains,1 slice,41.54,5.56,5.44,0.96,75.0,1,1,0,1,0,0.0,Synthetic
+533,Extra-Virgin Variety Millet Porridge,Grains,1 small slice,22.08,0.93,0.0,20.04,83.9,1,1,0,1,0,0.0,Synthetic
+534,Natural Farm-Fresh Teff Porridge,Grains,1/2 cup,47.79,3.89,0.0,44.53,193.7,1,1,0,1,0,0.75,Synthetic
+535,Marinated Traditional Corn Tortilla,Grains,1 small slice,44.86,6.15,0.09,28.16,138.1,1,1,0,1,0,0.0,Synthetic
+536,Fortified Classic Brown Rice,Grains,1/3 cup,16.36,1.48,0.32,13.73,63.7,1,1,0,1,0,0.5,Synthetic
+537,Homemade Farm-Fresh Quinoa,Grains,1/4 loaf,162.98,0.0,0.19,49.9,201.3,1,1,0,1,0,0.0,Synthetic
+538,Marinated Gourmet Brown Rice,Grains,1 cup,5.76,0.0,0.14,5.33,22.6,1,1,0,1,0,0.0,Synthetic
+539,Lightly-Salted Premium Whole Wheat Bread,Grains,1/2 cup,207.02,8.88,0.0,54.68,254.2,1,1,0,1,0,0.75,Synthetic
+540,Reduced-Fat Heritage Barley,Grains,1 cup,234.0,0.0,9.15,101.46,488.2,1,1,0,1,0,0.25,Synthetic
+541,Homemade Classic Rye Bread,Grains,1 slice,41.23,0.42,0.0,0.6,4.1,1,1,0,1,0,0.25,Synthetic
+542,Cold-Pressed Selection Teff Porridge,Grains,1/2 cup,5.0,0.18,0.0,4.57,19.0,1,1,0,1,0,0.0,Synthetic
+543,Premium Garden Polenta,Grains,1 slice,5.0,0.28,2.93,1.55,33.7,1,0,1,1,0,1.0,Synthetic
+544,Baked Garden Couscous,Grains,1/4 loaf,5.0,0.0,0.73,4.01,22.6,1,1,0,1,0,0.25,Synthetic
+545,High-Protein Bahraini Polenta,Grains,1/3 cup,103.99,7.07,5.45,86.27,422.4,1,1,1,1,0,0.75,Synthetic
+546,Fresh Gourmet Whole Wheat Bread,Grains,1 medium roll,49.01,7.76,3.77,35.03,205.1,1,1,0,1,0,0.75,Synthetic
+547,Herb-Infused Blend Whole Grain Crackers,Grains,1 cup,96.38,9.74,0.01,15.25,100.1,1,1,0,1,0,1.0,Synthetic
+548,Roasted Variety Brown Rice,Grains,1/4 loaf,109.5,12.24,1.47,84.17,398.9,1,1,0,1,0,0.0,Synthetic
+549,Low-Fat Selection Sorghum,Grains,1 small slice,78.09,0.0,0.0,40.27,161.1,1,1,0,1,0,0.5,Synthetic
+550,Reduced-Fat Arabian Polenta,Grains,1 cup,49.42,0.0,0.0,7.17,28.7,1,1,1,1,0,0.0,Synthetic
+551,Sun-Dried Special Rye Bread,Grains,1/4 loaf,107.27,2.73,3.11,45.03,219.0,1,1,1,1,0,0.75,Synthetic
+552,Natural Classic Polenta,Grains,1 cup,224.43,11.53,0.0,43.84,221.5,1,1,0,1,0,0.75,Synthetic
+553,Cold-Pressed Variety Buckwheat,Grains,1 slice,108.88,4.93,0.8,68.69,301.7,1,1,0,1,0,1.0,Synthetic
+554,Organic Blend Sorghum,Grains,1/3 cup,5.0,1.42,1.09,2.24,24.5,1,1,1,1,0,0.5,Synthetic
+555,Frozen Selection Barley,Grains,1/2 cup,5.0,1.11,2.88,0.76,33.4,1,1,0,1,0,0.5,Synthetic
+556,Dried Mix Buckwheat,Grains,1/4 loaf,89.05,2.42,0.0,0.6,12.1,1,1,1,1,0,1.0,Synthetic
+557,Reduced-Fat Traditional Pasta,Grains,1/2 cup,54.39,2.0,4.02,45.65,226.8,1,1,0,1,0,0.5,Synthetic
+558,Spiced Variety Rye Bread,Grains,1/3 cup,5.0,0.17,0.31,4.27,20.5,1,1,0,1,0,0.75,Synthetic
+559,Fresh Arabian Rye Bread,Grains,1 slice,16.71,1.06,1.4,13.41,70.5,1,1,0,1,0,0.75,Synthetic
+560,Fresh Wild Quinoa,Grains,1 slice,81.31,5.58,0.0,57.03,250.4,1,0,0,0,0,0.5,Synthetic
+561,Zero-Fat Selection Brown Rice,Grains,1 cup,47.85,7.01,6.92,36.08,234.6,1,1,1,1,0,0.0,Synthetic
+562,Fresh Wild Millet Porridge,Grains,1/4 loaf,80.67,16.56,2.75,39.76,250.0,1,1,0,1,0,0.0,Synthetic
+563,Extra-Virgin Selection Millet Porridge,Grains,1/2 cup,52.54,7.16,0.0,42.75,199.6,1,1,0,1,0,0.25,Synthetic
+564,Organic Original Sorghum,Grains,1/2 cup,5.0,0.11,0.0,4.64,19.0,1,1,0,1,0,0.25,Synthetic
+565,Herb-Infused Style Millet Porridge,Grains,1 small slice,84.01,12.7,2.0,5.54,91.0,1,1,0,1,0,0.0,Synthetic
+566,Natural Bahraini Quinoa,Grains,1 slice,179.9,11.48,2.19,19.76,144.7,1,1,0,0,0,0.75,Synthetic
+567,Enriched Traditional Whole Wheat Bread,Grains,1/3 cup,234.0,6.74,2.49,24.37,146.9,1,1,0,1,0,0.25,Synthetic
+568,Local Original Farro,Grains,1/3 cup,85.3,3.98,2.17,5.74,58.4,1,1,0,0,0,0.25,Synthetic
+569,Premium Heritage Sorghum,Grains,1/4 loaf,32.11,0.18,0.39,29.94,124.0,1,1,1,1,0,0.25,Synthetic
+570,Enriched Traditional Barley,Grains,1 small slice,75.17,10.85,0.32,57.18,275.0,1,1,1,0,0,0.5,Synthetic
+571,High-Protein Heritage Barley,Grains,1/4 loaf,5.0,0.49,0.0,4.26,19.0,1,1,0,1,0,0.25,Synthetic
+572,Unsalted Bahraini Buckwheat,Grains,1/3 cup,98.15,1.01,3.64,7.98,68.7,1,1,0,1,0,0.75,Synthetic
+573,Whipped Heritage Polenta,Grains,1/4 loaf,135.46,2.41,0.36,0.6,15.3,1,1,0,1,0,0.75,Synthetic
+574,Organic Heritage Oatmeal,Grains,1/4 loaf,153.15,14.52,6.71,91.06,482.7,1,1,0,1,0,0.0,Synthetic
+575,Whipped Medley Whole Wheat Bread,Grains,1 cup,163.24,6.69,4.49,71.17,351.9,1,1,0,1,0,0.75,Synthetic
+576,Extra-Virgin Style Bulgur,Grains,1/3 cup,116.96,13.82,3.07,32.95,214.7,1,1,0,0,0,0.25,Synthetic
+577,Organic Heritage Spelt Bread,Grains,1 slice,5.0,0.74,0.0,4.01,19.0,1,1,1,1,0,0.25,Synthetic
+578,Herb-Infused Bahraini Brown Rice,Grains,1/4 loaf,36.15,4.43,0.37,19.34,98.4,1,1,0,0,0,0.75,Synthetic
+579,Herb-Infused Selection Couscous,Grains,1 slice,158.51,0.0,0.0,18.51,74.0,1,1,0,1,0,0.0,Synthetic
+580,Homemade Variety Whole Wheat Bread,Grains,1/4 loaf,215.7,8.59,1.7,87.2,398.5,1,1,0,0,0,0.75,Synthetic
+581,High-Protein Garden Teff Porridge,Grains,1/4 loaf,64.19,0.0,0.55,62.18,253.7,1,1,1,1,0,0.0,Synthetic
+582,Marinated Mix Brown Rice,Grains,1 medium roll,215.76,5.63,6.44,43.57,254.8,1,1,0,0,0,0.25,Synthetic
+583,Zero-Fat Garden Bulgur,Grains,1 slice,15.83,1.02,0.0,14.02,60.2,1,1,0,1,0,0.0,Synthetic
+584,Enriched Bahraini Quinoa,Grains,1/4 loaf,5.0,1.2,1.49,0.6,20.6,1,1,0,1,0,1.0,Synthetic
+585,Raw Gourmet Rye Bread,Grains,1 small slice,54.98,5.68,2.3,43.47,217.3,1,1,0,1,0,0.25,Synthetic
+586,Sun-Dried Gourmet Buckwheat,Grains,1/2 cup,193.52,9.14,5.99,0.6,92.9,1,1,0,0,0,0.5,Synthetic
+587,Zero-Fat Blend Sorghum,Grains,1 medium roll,5.0,0.97,0.41,3.36,21.0,1,1,1,1,0,1.0,Synthetic
+588,Cold-Pressed Mix Amaranth,Grains,1 cup,221.9,8.81,5.0,43.77,255.3,1,1,0,1,0,0.5,Synthetic
+589,Dried Selection Polenta,Grains,1 slice,149.21,5.7,1.29,94.04,410.6,1,0,0,0,0,0.0,Synthetic
+590,Fresh Original Polenta,Grains,1/3 cup,103.93,10.85,0.0,45.95,227.2,1,1,1,1,0,1.0,Synthetic
+591,Natural Blend Barley,Grains,1 small slice,56.06,10.7,3.45,4.08,90.2,1,1,1,1,0,1.0,Synthetic
+592,Sun-Dried Special Couscous,Grains,1 small slice,90.85,2.38,4.54,7.33,79.7,1,1,0,1,0,1.0,Synthetic
+593,Plain Special Whole Wheat Bread,Grains,1 slice,5.0,3.11,1.32,0.31,25.6,1,1,0,1,1,0.0,Synthetic
+594,Boiled Style Corn Tortilla,Grains,1 medium roll,53.95,6.46,0.0,11.62,72.3,1,1,1,1,0,1.0,Synthetic
+595,Enriched Bahraini Teff Porridge,Grains,1 medium roll,162.05,12.02,1.12,34.75,197.2,1,1,0,1,0,0.75,Synthetic
+596,Smoked Heritage Corn Tortilla,Grains,1 medium roll,100.3,9.39,0.0,30.06,157.8,0,1,0,0,0,0.75,Synthetic
+597,Frozen Classic Pasta,Grains,1 medium roll,94.61,4.37,3.35,42.78,218.8,1,1,0,1,0,0.0,Synthetic
+598,Marinated Gourmet Quinoa,Grains,1 slice,64.81,3.51,0.0,15.92,77.7,0,1,1,1,0,0.5,Synthetic
+599,Raw Garden Oatmeal,Grains,1/4 loaf,37.23,5.45,0.0,29.92,141.5,1,1,0,1,0,0.5,Synthetic
+600,Extra-Virgin Selection Barley,Grains,1 cup,38.46,7.97,0.0,28.57,146.2,1,1,0,1,0,0.0,Synthetic
+601,Whipped Blend Farro,Grains,1 cup,47.37,7.22,6.12,22.46,173.8,1,1,0,1,0,0.25,Synthetic
+602,Fresh Arabian Quinoa,Grains,1 cup,118.07,11.04,3.36,0.6,76.8,1,1,0,1,0,1.0,Synthetic
+603,Smoked Blend Whole Grain Crackers,Grains,1/2 cup,90.45,5.51,8.25,69.15,372.9,1,1,0,1,0,0.25,Synthetic
+604,Frozen Selection Corn Tortilla,Grains,1/2 cup,95.32,9.62,9.42,53.77,338.3,1,1,1,1,0,0.25,Synthetic
+605,Raw Medley Rye Bread,Grains,1 cup,25.61,2.74,0.09,21.49,97.7,1,1,0,1,0,1.0,Synthetic
+606,Seasonal Premium Barley,Grains,1 cup,20.49,0.15,0.89,18.42,82.3,1,1,0,1,0,0.0,Synthetic
+607,Unsalted Variety Polenta,Grains,1 cup,14.01,0.91,0.0,12.4,53.2,1,1,1,1,0,0.75,Synthetic
+608,Homemade Wild Pasta,Grains,1/3 cup,60.13,17.49,0.0,9.96,109.8,1,1,0,1,0,0.25,Synthetic
+609,Raw Wild Teff Porridge,Grains,1/2 cup,6.06,0.0,0.0,5.76,23.0,1,1,1,1,0,0.75,Synthetic
+610,Cold-Pressed Original Quinoa,Grains,1 cup,98.98,3.78,7.26,81.3,405.7,1,1,0,1,0,0.25,Synthetic
+611,Steamed Arabian Amaranth,Grains,1/3 cup,28.14,3.49,1.49,21.75,114.4,1,1,0,1,0,0.0,Synthetic
+612,Roasted Style Corn Tortilla,Grains,1 medium roll,5.0,0.02,0.16,4.57,19.8,1,1,1,1,0,0.5,Synthetic
+613,Local Classic Polenta,Grains,1 cup,58.68,9.84,0.0,2.14,47.9,1,0,0,1,0,0.5,Synthetic
+614,Boiled Premium Amaranth,Grains,1 medium roll,125.16,3.76,5.96,38.47,222.6,0,1,0,1,0,0.0,Synthetic
+615,Grilled Special Couscous,Grains,1 slice,5.0,0.0,0.0,0.6,2.4,1,0,0,0,0,0.5,Synthetic
+616,Zero-Fat Style Quinoa,Grains,1 cup,152.08,13.92,5.03,0.6,103.4,1,1,0,1,0,0.75,Synthetic
+617,Marinated Style Teff Porridge,Grains,1/3 cup,63.64,0.65,2.82,59.11,264.4,0,1,0,1,0,0.75,Synthetic
+618,Homemade Traditional Buckwheat,Grains,1/3 cup,132.12,12.15,0.25,0.6,53.2,1,1,0,1,1,1.0,Synthetic
+619,Organic Garden Spelt Bread,Grains,1 cup,209.9,13.84,0.0,35.79,198.5,0,1,0,1,0,0.25,Synthetic
+620,Whole Style Buckwheat,Grains,1/4 loaf,234.0,11.36,0.0,15.62,107.9,1,1,1,1,0,0.0,Synthetic
+621,Frozen Garden Pasta,Grains,1 small slice,154.57,3.59,0.0,78.87,329.8,1,0,0,1,1,0.0,Synthetic
+622,Homemade Blend Couscous,Grains,1 small slice,195.87,4.28,8.89,72.18,385.9,1,1,0,1,0,0.75,Synthetic
+623,Frozen Premium Polenta,Grains,1/2 cup,204.36,6.54,5.52,78.95,391.6,1,1,0,1,0,0.5,Synthetic
+624,Herb-Infused Blend Bulgur,Grains,1 slice,66.09,7.66,0.0,55.12,251.1,1,1,0,1,0,1.0,Synthetic
+625,Baked Heritage Farro,Grains,1 small slice,5.0,0.76,0.19,3.8,19.9,1,1,0,1,0,0.5,Synthetic
+626,Homemade Original Bulgur,Grains,1 slice,91.46,6.76,0.0,43.71,201.9,1,1,0,1,0,0.75,Synthetic
+627,Low-Fat Bahraini Oatmeal,Grains,1 medium roll,162.23,1.54,4.66,0.6,50.5,1,1,0,1,0,0.25,Synthetic
+628,Plain Garden Couscous,Grains,1 cup,42.17,9.0,1.04,31.88,172.9,1,1,1,1,0,1.0,Synthetic
+629,Plain Original Polenta,Grains,1/3 cup,181.13,6.97,4.79,11.56,117.2,1,1,0,1,0,0.5,Synthetic
+630,Enriched Original Oatmeal,Grains,1/4 loaf,55.58,0.0,0.0,10.16,40.6,1,1,0,1,0,0.0,Synthetic
+631,Cold-Pressed Mix Couscous,Grains,1 cup,5.0,0.19,0.0,4.56,19.0,1,1,0,1,0,0.0,Synthetic
+632,Reduced-Fat Selection Rice Cake,Grains,1 small slice,5.0,0.42,0.55,3.78,21.8,1,1,1,0,0,1.0,Synthetic
+633,Raw Premium Pasta,Grains,1/3 cup,58.95,6.23,4.7,14.4,124.8,1,1,0,1,0,0.25,Synthetic
+634,Homemade Premium Millet Porridge,Grains,1 small slice,74.03,11.41,0.0,38.1,198.0,1,1,0,1,0,0.0,Synthetic
+635,Boiled Premium Barley,Grains,1/3 cup,86.22,7.57,0.31,14.09,89.4,1,1,0,1,0,0.25,Synthetic
+636,Steamed Variety Brown Rice,Grains,1/4 loaf,5.0,0.29,0.23,4.23,20.2,1,1,0,1,0,0.75,Synthetic
+637,Frozen Wild Sorghum,Grains,1/3 cup,36.11,1.52,0.27,32.52,138.6,1,1,0,1,0,0.75,Synthetic
+638,Lightly-Salted Heritage Rice Cake,Grains,1/3 cup,110.22,4.87,5.84,71.08,356.4,1,1,0,1,0,1.0,Synthetic
+639,Dried Bahraini Rice Cake,Grains,1 cup,113.36,2.19,1.35,0.6,23.3,1,1,0,1,0,0.5,Synthetic
+640,Extra-Virgin Style Oatmeal,Grains,1 cup,24.25,2.71,1.1,19.22,97.6,1,1,1,1,0,1.0,Synthetic
+641,Dried Premium Polenta,Grains,1/4 loaf,93.18,1.94,0.0,0.6,10.2,1,1,1,1,0,0.0,Synthetic
+642,Homemade Heritage Spelt Bread,Grains,1/4 loaf,24.33,4.23,0.42,18.46,94.5,1,1,0,1,1,0.0,Synthetic
+643,Low-Fat Variety Oatmeal,Grains,1 slice,91.32,9.68,8.48,30.06,235.3,1,1,0,1,0,1.0,Synthetic
+644,Smoked Variety Amaranth,Grains,1/2 cup,71.7,0.4,2.43,65.29,284.6,1,1,0,1,0,0.25,Synthetic
+645,Frozen Premium Millet Porridge,Grains,1/3 cup,5.0,0.84,1.15,2.76,24.8,1,0,0,1,0,0.25,Synthetic
+646,Dried Medley Millet Porridge,Grains,1 medium roll,16.67,12.04,0.0,5.08,68.5,1,1,0,1,0,0.25,Synthetic
+647,Local Blend Whole Grain Crackers,Grains,1 medium roll,5.0,0.53,0.0,4.22,19.0,1,1,1,1,0,1.0,Synthetic
+648,Extra-Virgin Special Teff Porridge,Grains,1/3 cup,57.89,0.0,1.99,0.6,20.3,1,1,0,1,0,1.0,Synthetic
+649,Extra-Virgin Selection Rice Cake,Grains,1/2 cup,5.0,0.0,0.1,4.65,19.5,1,1,0,0,0,0.0,Synthetic
+650,Raw Gourmet Brown Rice,Grains,1/3 cup,101.38,12.67,0.0,25.51,152.7,1,1,0,1,0,0.5,Synthetic
+651,Whole Premium Barley,Grains,1 small slice,37.52,3.55,0.0,13.67,68.9,1,1,1,1,0,0.5,Synthetic
+652,Boiled Traditional Amaranth,Grains,1/3 cup,105.45,2.53,2.8,53.9,250.9,1,1,0,1,0,0.0,Synthetic
+653,Cold-Pressed Gourmet Rice Cake,Grains,1 small slice,156.44,0.0,0.0,127.0,508.0,1,1,0,1,0,0.25,Synthetic
+654,Organic Original Buckwheat,Grains,1 medium roll,26.55,0.0,1.42,23.8,108.0,1,1,0,1,0,0.75,Synthetic
+655,Frozen Mix Brown Rice,Grains,1/2 cup,161.59,0.0,4.01,41.99,204.1,1,1,0,0,0,1.0,Synthetic
+656,Seasonal Selection Whole Wheat Bread,Grains,1/2 cup,132.65,1.34,1.91,0.6,24.9,1,1,0,1,0,1.0,Synthetic
+657,Local Arabian Barley,Grains,1 cup,25.71,3.49,1.05,7.15,52.0,1,1,0,1,0,0.0,Synthetic
+658,Reduced-Fat Blend Rye Bread,Grains,1 medium roll,121.85,0.0,0.0,50.95,203.8,1,1,1,1,0,0.25,Synthetic
+659,Pickled Farm-Fresh Amaranth,Grains,1/3 cup,62.68,18.15,1.88,21.85,176.9,1,1,0,1,0,0.0,Synthetic
+660,Spiced Mix Bulgur,Grains,1 cup,135.1,8.92,3.81,0.6,72.4,1,1,0,1,0,0.0,Synthetic
+661,Roasted Classic Whole Grain Crackers,Grains,1 small slice,90.31,0.0,2.48,47.26,211.4,1,0,0,1,0,0.0,Synthetic
+662,Homemade Original Farro,Grains,1/4 loaf,149.85,4.33,0.0,19.53,95.4,1,1,0,1,0,0.25,Synthetic
+663,Zero-Fat Heritage Brown Rice,Grains,1 slice,181.93,5.51,0.78,121.59,515.4,1,1,0,1,0,0.0,Synthetic
+664,Enriched Original Rice Cake,Grains,1 slice,109.29,13.15,2.88,46.35,263.9,1,1,0,1,0,0.0,Synthetic
+665,Zero-Fat Bahraini Spelt Bread,Grains,1/4 loaf,88.37,6.19,2.64,0.6,50.9,1,1,1,1,0,0.75,Synthetic
+666,Marinated Arabian Quinoa,Grains,1 small slice,126.09,9.78,5.45,58.81,323.4,1,1,0,1,1,0.25,Synthetic
+667,Roasted Style Bulgur,Grains,1/3 cup,5.0,0.42,0.39,3.94,20.9,1,1,0,1,0,0.25,Synthetic
+668,Pickled Special Pasta,Grains,1 small slice,43.1,4.56,0.0,0.6,20.6,1,1,0,1,0,0.0,Synthetic
+669,Plain Mix Whole Wheat Bread,Grains,1 slice,5.0,1.53,0.13,3.08,19.6,1,1,0,1,0,0.75,Synthetic
+670,Fresh Special Millet Porridge,Grains,1 cup,162.22,1.13,1.65,71.6,305.8,1,1,0,1,0,0.0,Synthetic
+671,Homemade Selection Corn Tortilla,Grains,1 slice,90.55,0.0,0.0,24.22,96.9,1,1,0,1,0,0.0,Synthetic
+672,Local Selection Whole Wheat Bread,Grains,1/3 cup,53.89,4.47,0.0,0.6,20.3,1,1,0,1,0,0.25,Synthetic
+673,Plain Arabian Corn Tortilla,Grains,1 small slice,144.49,6.72,0.0,0.6,29.3,1,1,0,1,0,1.0,Synthetic
+674,Reduced-Fat Selection Millet Porridge,Grains,1 medium roll,107.16,0.0,4.09,7.05,65.0,1,1,1,1,0,0.5,Synthetic
+675,Low-Fat Farm-Fresh Polenta,Grains,1/3 cup,45.08,0.0,5.36,37.46,198.1,1,1,0,1,0,0.75,Synthetic
+676,Grilled Style Whole Wheat Bread,Grains,1 medium roll,109.33,0.0,7.4,54.74,285.6,1,1,0,1,0,0.5,Synthetic
+677,Enriched Arabian Whole Grain Crackers,Grains,1 slice,192.31,9.17,4.06,37.64,223.8,1,0,0,0,0,1.0,Synthetic
+678,Fresh Heritage Sorghum,Grains,1 slice,5.0,0.4,0.0,4.34,19.0,1,1,0,1,0,1.0,Synthetic
+679,Roasted Classic Polenta,Grains,1 slice,107.16,4.65,1.37,74.54,329.1,1,0,1,1,0,0.0,Synthetic
+680,Homemade Style Dates,Fruits,1 medium piece,289.71,1.35,1.23,22.11,104.9,0,1,0,1,1,0.75,Synthetic
+681,Herb-Infused Arabian Pomegranate,Fruits,1 cup (chunks),6.0,0.56,0.0,5.14,22.8,0,1,0,1,1,0.75,Synthetic
+682,Marinated Blend Watermelon,Fruits,1 cup,81.27,0.1,0.0,1.0,4.4,0,1,0,1,1,1.0,Synthetic
+683,Cold-Pressed Classic Plum,Fruits,1 medium one,58.2,1.32,0.08,39.51,164.0,0,1,0,1,1,0.5,Synthetic
+684,Lightly-Salted Selection Mango,Fruits,1 medium one,159.58,1.7,0.33,42.14,178.3,0,1,0,1,1,1.0,Synthetic
+685,Whole Selection Banana,Fruits,1 medium piece,90.21,0.95,0.0,44.95,183.6,0,1,0,1,1,1.0,Synthetic
+686,Spiced Blend Apricot,Fruits,1 medium piece,224.17,1.91,0.16,22.32,98.4,0,1,0,1,1,1.0,Synthetic
+687,Seasonal Special Orange,Fruits,1 cup,119.13,0.88,2.63,12.61,77.6,0,1,0,1,1,0.0,Synthetic
+688,Low-Fat Premium Lychee,Fruits,1 cup,157.03,0.1,0.0,9.11,36.8,0,1,0,1,1,0.5,Synthetic
+689,Plain Selection Lychee,Fruits,1 cup (halves),173.36,0.1,0.47,1.0,8.6,0,1,0,1,1,0.0,Synthetic
+690,Fresh Blend Pear,Fruits,1 medium one,33.63,0.07,0.84,31.05,132.0,0,1,0,1,1,0.0,Synthetic
+691,Whipped Classic Apricot,Fruits,1 medium one,60.75,0.64,0.41,49.35,203.7,0,1,0,1,1,0.0,Synthetic
+692,Sun-Dried Selection Watermelon,Fruits,1 medium piece,148.06,1.52,0.0,8.72,41.0,0,1,0,1,1,0.75,Synthetic
+693,Cold-Pressed Garden Peach,Fruits,1 medium one,100.29,0.1,0.0,24.36,97.8,0,1,0,1,1,1.0,Synthetic
+694,Smoked Arabian Watermelon,Fruits,1 cup,83.99,2.15,0.54,61.21,258.3,0,1,0,1,1,0.25,Synthetic
+695,Herb-Infused Gourmet Apricot,Fruits,1 medium one,121.61,0.14,0.0,44.4,178.2,0,1,0,1,1,0.75,Synthetic
+696,Grilled Traditional Pear,Fruits,1 cup (chunks),6.0,0.15,0.05,5.49,23.0,0,1,0,1,1,0.0,Synthetic
+697,Frozen Original Strawberries,Fruits,1 medium one,158.2,2.57,0.0,1.0,14.3,0,1,0,1,1,0.25,Synthetic
+698,Zero-Fat Special Kiwi,Fruits,1 cup (halves),133.04,2.18,0.96,1.0,21.4,0,1,0,1,1,0.75,Synthetic
+699,Natural Farm-Fresh Guava,Fruits,1 cup,152.01,0.42,0.0,1.0,5.7,0,1,0,1,1,0.5,Synthetic
+700,Boiled Medley Plum,Fruits,1 cup,116.8,2.88,0.0,17.01,79.6,0,1,0,1,1,0.25,Synthetic
+701,Spiced Wild Plum,Fruits,1 cup (halves),109.7,1.82,0.0,5.56,29.5,0,1,0,1,1,0.5,Synthetic
+702,Fortified Arabian Kiwi,Fruits,1 cup (halves),256.72,1.05,0.25,18.29,79.6,0,1,0,1,1,0.25,Synthetic
+703,Grilled Farm-Fresh Mixed Berries,Fruits,1 medium one,141.89,2.36,0.0,44.55,187.6,0,1,0,1,1,0.75,Synthetic
+704,Premium Bahraini Watermelon,Fruits,1 cup (halves),68.59,1.77,0.02,21.3,92.5,0,1,0,1,1,0.25,Synthetic
+705,Boiled Gourmet Pineapple,Fruits,1 medium piece,58.75,1.21,0.64,37.36,160.0,0,1,0,1,1,0.75,Synthetic
+706,Roasted Garden Apricot,Fruits,1 medium one,61.81,1.81,0.18,22.29,98.0,0,1,0,1,1,1.0,Synthetic
+707,Marinated Gourmet Lychee,Fruits,1 cup (halves),174.52,1.74,0.94,9.73,54.3,0,1,0,1,1,0.75,Synthetic
+708,Fortified Wild Guava,Fruits,1 cup,98.75,2.19,0.25,5.84,34.4,0,1,0,1,1,1.0,Synthetic
+709,Homemade Bahraini Lychee,Fruits,1 medium one,140.58,2.08,0.42,20.34,93.5,0,1,0,1,1,1.0,Synthetic
+710,Whipped Bahraini Dates,Fruits,1 medium piece,24.0,0.25,0.47,22.08,93.5,0,1,0,1,1,0.75,Synthetic
+711,Pickled Heritage Orange,Fruits,1 medium piece,266.45,3.9,0.0,28.4,129.2,0,1,0,1,1,0.75,Synthetic
+712,Smoked Mix Apricot,Fruits,1 cup,103.48,0.1,0.0,31.3,125.6,0,1,0,1,1,0.5,Synthetic
+713,Unsalted Garden Kiwi,Fruits,1 cup (halves),79.19,1.4,2.72,37.85,181.5,0,1,0,1,1,0.5,Synthetic
+714,Spiced Traditional Apple,Fruits,1 cup (halves),121.67,3.51,0.0,58.89,249.6,0,1,0,1,1,0.25,Synthetic
+715,Herb-Infused Heritage Papaya,Fruits,1 cup,142.99,1.36,0.42,28.93,124.9,0,1,0,1,1,0.75,Synthetic
+716,Pickled Classic Papaya,Fruits,1 cup,135.28,1.8,0.0,53.38,220.7,0,1,0,1,1,1.0,Synthetic
+717,Smoked Gourmet Pomegranate,Fruits,1 medium piece,142.31,2.16,0.31,1.0,15.4,0,1,0,1,1,0.0,Synthetic
+718,Spiced Garden Strawberries,Fruits,1 cup (chunks),70.17,2.32,0.0,64.34,266.6,0,1,0,1,1,0.0,Synthetic
+719,Marinated Gourmet Peach,Fruits,1 cup,58.6,1.25,0.09,15.25,66.8,0,1,0,1,1,0.75,Synthetic
+720,Fortified Premium Pineapple,Fruits,1 cup,124.89,2.48,0.0,1.0,13.9,0,1,0,1,1,1.0,Synthetic
+721,Zero-Fat Mix Orange,Fruits,1 cup (halves),138.08,2.64,0.04,53.56,225.2,0,1,0,1,1,1.0,Synthetic
+722,Seasonal Classic Watermelon,Fruits,1 medium piece,56.42,1.03,0.38,29.07,123.8,0,1,0,1,1,0.25,Synthetic
+723,Seasonal Farm-Fresh Orange,Fruits,1 medium piece,169.43,2.08,0.0,27.99,120.3,0,1,0,1,1,0.75,Synthetic
+724,Plain Heritage Plum,Fruits,1 medium one,26.38,0.03,0.08,24.94,100.6,0,1,0,1,1,1.0,Synthetic
+725,Homemade Style Lychee,Fruits,1 cup (chunks),17.22,0.16,0.0,16.2,65.4,0,1,0,1,1,0.0,Synthetic
+726,Steamed Arabian Kiwi,Fruits,1 cup,61.77,2.77,0.45,1.0,19.1,0,1,0,1,1,1.0,Synthetic
+727,Grilled Classic Plum,Fruits,1 medium one,96.67,1.07,0.0,57.33,233.6,0,1,0,1,1,0.0,Synthetic
+728,High-Protein Special Papaya,Fruits,1 medium one,144.21,1.87,0.0,36.96,155.3,0,1,0,1,1,0.0,Synthetic
+729,Unsalted Selection Apple,Fruits,1 cup (chunks),142.7,2.53,1.26,1.0,25.5,0,1,0,1,1,0.25,Synthetic
+730,Plain Garden Peach,Fruits,1 cup (chunks),68.49,2.09,0.54,23.62,107.7,0,1,0,1,1,0.5,Synthetic
+731,Boiled Mix Lychee,Fruits,1 cup,201.62,1.76,1.33,79.43,336.7,0,1,0,1,1,0.5,Synthetic
+732,Roasted Style Figs,Fruits,1 cup,112.71,2.75,0.77,91.24,382.9,0,1,0,1,1,1.0,Synthetic
+733,Whipped Wild Watermelon,Fruits,1 medium one,170.13,0.1,0.6,23.44,99.6,0,1,0,1,1,0.5,Synthetic
+734,High-Protein Blend Plum,Fruits,1 cup (chunks),170.37,2.14,0.3,39.72,170.1,0,1,0,1,1,1.0,Synthetic
+735,Plain Variety Pomegranate,Fruits,1 cup,218.58,3.88,1.13,25.49,127.6,0,1,0,1,1,0.5,Synthetic
+736,Lightly-Salted Classic Mango,Fruits,1 medium one,146.24,0.81,1.36,49.68,214.2,0,1,0,1,1,1.0,Synthetic
+737,Homemade Selection Guava,Fruits,1 cup,124.55,0.78,1.13,14.25,70.3,0,1,0,1,1,0.0,Synthetic
+738,Enriched Traditional Plum,Fruits,1 medium piece,130.54,1.02,0.35,48.54,201.4,0,1,0,1,1,0.5,Synthetic
+739,Fortified Gourmet Lychee,Fruits,1 medium one,75.04,3.74,0.0,1.0,19.0,0,1,0,1,1,0.25,Synthetic
+740,Plain Selection Mango,Fruits,1 cup (halves),97.2,1.39,0.0,1.0,9.6,0,1,0,1,1,0.75,Synthetic
+741,Reduced-Fat Farm-Fresh Dates,Fruits,1 medium one,114.25,1.03,1.13,25.45,116.1,0,1,0,1,1,0.5,Synthetic
+742,Pickled Medley Dates,Fruits,1 medium one,71.62,1.35,0.31,44.89,187.8,0,1,0,1,1,0.5,Synthetic
+743,Premium Garden Plum,Fruits,1 cup (halves),223.59,1.55,0.86,62.14,262.5,0,1,0,1,1,1.0,Synthetic
+744,Frozen Premium Pear,Fruits,1 cup (chunks),28.28,0.1,0.0,14.55,58.6,0,1,0,1,1,0.0,Synthetic
+745,Marinated Garden Peach,Fruits,1 medium piece,143.27,1.28,0.0,15.78,68.2,0,1,0,1,1,0.75,Synthetic
+746,Spiced Special Mango,Fruits,1 medium one,70.82,2.82,0.55,1.0,20.2,0,1,0,1,1,0.25,Synthetic
+747,Raw Gourmet Pineapple,Fruits,1 cup (halves),54.85,1.6,0.44,1.0,14.4,0,1,0,1,1,0.0,Synthetic
+748,Frozen Gourmet Mango,Fruits,1 medium piece,148.16,1.1,2.05,1.0,26.9,0,1,0,1,1,1.0,Synthetic
+749,Marinated Classic Apple,Fruits,1 medium piece,41.72,0.1,0.0,1.0,4.4,0,1,0,1,1,0.75,Synthetic
+750,Cold-Pressed Garden Watermelon,Fruits,1 cup,106.68,1.2,0.0,27.23,113.7,0,1,0,1,1,0.0,Synthetic
+751,Natural Gourmet Apple,Fruits,1 cup (chunks),70.53,1.98,0.94,45.35,197.8,0,1,0,1,1,1.0,Synthetic
+752,Organic Variety Mixed Berries,Fruits,1 medium piece,165.04,1.86,0.25,28.2,122.5,0,1,0,1,1,0.0,Synthetic
+753,Organic Arabian Lychee,Fruits,1 medium piece,56.4,1.34,1.55,18.17,92.0,0,1,0,1,1,0.25,Synthetic
+754,Frozen Wild Mango,Fruits,1 medium piece,65.61,1.61,0.94,24.89,114.5,0,1,0,1,1,0.5,Synthetic
+755,Whole Gourmet Orange,Fruits,1 medium piece,177.45,1.9,1.3,13.41,72.9,0,1,0,1,1,0.0,Synthetic
+756,Fresh Variety Grapes,Fruits,1 cup (halves),164.44,0.97,0.0,38.23,156.8,0,1,0,1,1,0.75,Synthetic
+757,High-Protein Medley Pineapple,Fruits,1 cup,83.67,1.52,0.0,18.38,79.6,0,1,0,1,1,0.0,Synthetic
+758,Natural Style Mango,Fruits,1 medium one,118.36,0.54,0.43,19.08,82.3,0,1,0,1,1,1.0,Synthetic
+759,Extra-Virgin Heritage Mango,Fruits,1 cup (halves),135.8,3.95,0.0,1.0,19.8,0,1,0,1,1,0.5,Synthetic
+760,Low-Fat Traditional Banana,Fruits,1 medium one,6.0,0.38,0.0,5.32,22.8,0,1,0,1,1,0.5,Synthetic
+761,Spiced Original Watermelon,Fruits,1 medium one,118.24,0.34,0.19,1.0,7.1,0,1,0,1,1,0.0,Synthetic
+762,Natural Wild Pomegranate,Fruits,1 cup (chunks),71.67,2.58,0.73,7.52,47.0,0,1,0,1,1,1.0,Synthetic
+763,Local Garden Banana,Fruits,1 cup (chunks),186.82,1.99,0.81,69.87,294.7,0,1,0,1,1,1.0,Synthetic
+764,Homemade Style Kiwi,Fruits,1 cup (halves),286.24,2.34,0.0,55.33,230.7,0,1,0,1,1,1.0,Synthetic
+765,Enriched Blend Plum,Fruits,1 cup (chunks),117.65,0.1,0.0,15.18,61.1,0,1,0,1,1,1.0,Synthetic
+766,Seasonal Selection Dates,Fruits,1 medium one,114.09,1.91,1.7,17.15,91.5,0,1,0,1,1,1.0,Synthetic
+767,Steamed Variety Apple,Fruits,1 medium piece,121.64,1.39,0.43,1.0,13.4,0,1,0,1,1,0.0,Synthetic
+768,Grilled Bahraini Apple,Fruits,1 cup (halves),204.83,1.68,0.0,36.9,154.3,0,1,0,1,1,0.25,Synthetic
+769,Steamed Traditional Strawberries,Fruits,1 medium piece,121.73,1.65,0.61,38.23,165.0,0,1,0,1,1,1.0,Synthetic
+770,Marinated Medley Plum,Fruits,1 medium piece,103.7,0.99,0.0,58.08,236.3,0,1,0,1,1,0.75,Synthetic
+771,Grilled Special Peach,Fruits,1 cup (halves),97.57,2.32,0.83,33.66,151.4,0,1,0,1,1,0.25,Synthetic
+772,Unsalted Gourmet Guava,Fruits,1 cup (chunks),55.26,2.43,0.0,50.06,210.0,0,1,0,1,1,0.5,Synthetic
+773,Homemade Classic Watermelon,Fruits,1 medium piece,6.0,0.12,0.01,5.56,22.8,0,1,0,1,1,0.0,Synthetic
+774,Dried Heritage Banana,Fruits,1 cup (chunks),160.76,1.88,0.0,5.51,29.6,0,1,0,1,1,0.75,Synthetic
+775,Extra-Virgin Gourmet Grapes,Fruits,1 medium piece,259.79,0.44,0.41,1.0,9.4,0,1,0,1,1,0.5,Synthetic
+776,Spiced Farm-Fresh Peach,Fruits,1 cup (chunks),236.22,1.73,0.43,15.48,72.7,0,1,0,1,1,0.75,Synthetic
+777,Raw Style Orange,Fruits,1 cup (halves),142.98,1.17,0.93,86.85,360.4,0,1,0,1,1,0.5,Synthetic
+778,Grilled Special Kiwi,Fruits,1 medium piece,136.53,1.8,0.0,56.19,232.0,0,1,0,1,1,1.0,Synthetic
+779,Cold-Pressed Variety Figs,Fruits,1 medium one,85.36,1.69,0.0,44.19,183.5,0,1,0,1,1,0.5,Synthetic
+780,Unsalted Traditional Plum,Fruits,1 cup (halves),118.21,0.1,1.89,44.35,194.8,0,1,0,1,1,0.25,Synthetic
+781,Reduced-Fat Variety Figs,Fruits,1 cup (chunks),198.37,2.24,0.57,18.68,88.8,0,1,0,1,1,0.25,Synthetic
+782,Plain Mix Apple,Fruits,1 cup,53.45,2.32,1.08,51.91,226.6,0,1,0,1,1,0.75,Synthetic
+783,Plain Bahraini Watermelon,Fruits,1 cup,188.82,2.96,0.87,7.71,50.5,0,1,0,1,1,0.5,Synthetic
+784,Marinated Special Pomegranate,Fruits,1 medium one,191.93,3.3,0.77,31.67,146.8,0,1,0,1,1,0.75,Synthetic
+785,Low-Fat Classic Mixed Berries,Fruits,1 cup (chunks),114.67,1.78,0.0,1.0,11.1,0,1,0,1,1,0.5,Synthetic
+786,Seasonal Special Dates,Fruits,1 cup (halves),72.04,1.87,1.21,22.98,110.3,0,1,0,1,1,0.75,Synthetic
+787,Herb-Infused Premium Orange,Fruits,1 cup (chunks),134.46,1.65,1.06,1.0,20.1,0,1,0,1,1,0.75,Synthetic
+788,Smoked Original Apple,Fruits,1 cup,137.68,0.3,0.47,24.98,105.3,0,1,0,1,1,0.75,Synthetic
+789,Sun-Dried Garden Strawberries,Fruits,1 cup (chunks),98.96,1.28,0.0,1.0,9.1,0,1,0,1,1,1.0,Synthetic
+790,Boiled Wild Strawberries,Fruits,1 cup,43.43,0.1,0.11,18.87,76.9,0,1,0,1,1,0.5,Synthetic
+791,Seasonal Gourmet Apricot,Fruits,1 cup (halves),80.96,0.85,0.87,36.15,155.8,0,1,0,1,1,0.5,Synthetic
+792,Grilled Medley Guava,Fruits,1 cup (chunks),185.92,2.54,0.0,5.32,31.4,0,1,0,1,1,0.25,Synthetic
+793,Marinated Variety Dates,Fruits,1 medium piece,139.01,1.78,0.06,71.72,294.5,0,1,0,1,1,0.25,Synthetic
+794,Raw Traditional Papaya,Fruits,1 cup,109.32,2.34,0.09,1.0,14.2,0,1,0,1,1,0.75,Synthetic
+795,Spiced Original Dates,Fruits,1 cup,158.03,0.1,0.57,74.34,302.9,0,1,0,1,1,1.0,Synthetic
+796,Pickled Arabian Lychee,Fruits,1 medium piece,222.39,1.89,0.42,1.94,19.1,0,1,0,1,1,0.5,Synthetic
+797,Boiled Premium Guava,Fruits,1 cup (chunks),127.7,2.04,0.04,15.56,70.8,0,1,0,1,1,1.0,Synthetic
+798,Premium Original Pomegranate,Fruits,1 cup,211.77,1.86,0.11,73.83,303.8,0,1,0,1,1,0.5,Synthetic
+799,Homemade Classic Pear,Fruits,1 cup (halves),105.73,0.88,0.02,14.64,62.3,0,1,0,1,1,0.5,Synthetic
+800,Natural Special Apple,Fruits,1 medium one,123.43,1.53,1.41,48.66,213.4,0,1,0,1,1,0.0,Synthetic
+801,Organic Garden Eggplant,Vegetables,Palm-sized portion,26.84,3.1,0.0,16.39,78.0,0,0,0,0,0,0.5,Synthetic
+802,Baked Heritage Broccoli,Vegetables,1 medium one,65.15,0.02,5.21,33.74,181.9,0,0,0,0,0,0.0,Synthetic
+803,Homemade Arabian Sweet Potato,Vegetables,1 cup,57.28,4.93,5.64,9.92,110.2,1,0,1,0,1,0.0,Synthetic
+804,Boiled Selection Cucumber,Vegetables,Sliced (1/2 cup),141.06,4.9,3.72,7.64,83.6,1,0,0,0,0,0.25,Synthetic
+805,Grilled Blend Zucchini,Vegetables,Palm-sized portion,158.4,1.32,0.67,24.42,109.0,0,0,0,0,0,0.75,Synthetic
+806,Seasonal Gourmet Eggplant,Vegetables,1 cup,80.49,0.02,0.16,23.11,94.0,0,0,0,0,0,1.0,Synthetic
+807,Raw Mix Asparagus,Vegetables,Sliced (1/2 cup),91.96,3.04,1.98,13.63,84.5,1,0,0,0,0,0.5,Synthetic
+808,Organic Classic Tomatoes,Vegetables,1 cup,159.64,7.04,5.13,16.11,138.8,0,0,0,0,0,0.5,Synthetic
+809,Homemade Mix Tomatoes,Vegetables,1 medium one,154.2,13.69,3.47,19.01,162.0,0,0,1,0,0,0.25,Synthetic
+810,Extra-Virgin Traditional Cabbage,Vegetables,Sliced (1/2 cup),144.79,0.02,0.0,22.82,91.4,0,0,0,0,0,1.0,Synthetic
+811,Frozen Classic Broccoli,Vegetables,1 cup,171.21,13.18,0.0,20.16,133.4,0,0,0,0,0,0.0,Synthetic
+812,Frozen Premium Bell Peppers,Vegetables,1 cup,160.51,4.83,1.58,0.2,34.3,0,0,0,0,0,0.0,Synthetic
+813,Boiled Variety Leeks,Vegetables,1 medium one,7.0,1.94,0.51,0.2,13.2,0,0,0,0,0,0.5,Synthetic
+814,Roasted Selection Bok Choy,Vegetables,1/2 cup,103.44,2.02,3.18,0.2,37.5,1,0,0,0,0,0.0,Synthetic
+815,Organic Variety Artichoke,Vegetables,Palm-sized portion,56.32,0.02,4.63,0.2,42.5,0,0,0,0,0,0.25,Synthetic
+816,Extra-Virgin Classic Bok Choy,Vegetables,Sliced (1/2 cup),134.99,0.02,1.87,8.89,52.5,0,0,0,0,0,0.25,Synthetic
+817,Baked Bahraini Green Beans,Vegetables,Sliced (1/2 cup),173.52,10.32,0.0,0.2,42.1,1,0,0,0,0,0.25,Synthetic
+818,Enriched Blend Leeks,Vegetables,1 cup,56.77,8.83,0.0,21.72,122.2,0,0,0,0,0,0.75,Synthetic
+819,Enriched Special Cauliflower,Vegetables,1/2 cup,42.23,12.15,1.87,21.41,151.1,0,0,0,0,0,0.75,Synthetic
+820,Extra-Virgin Bahraini Cucumber,Vegetables,1 cup,58.01,0.02,6.57,25.22,160.1,1,0,0,0,0,0.25,Synthetic
+821,Lightly-Salted Classic Zucchini,Vegetables,1 medium one,67.73,0.55,4.84,8.42,79.4,0,0,0,0,0,0.25,Synthetic
+822,Homemade Premium Sweet Potato,Vegetables,1 medium one,70.97,5.23,0.0,35.99,164.9,0,0,0,0,1,0.75,Synthetic
+823,Premium Arabian Radish,Vegetables,1 cup,156.73,9.32,3.16,0.2,66.5,0,0,0,0,0,1.0,Synthetic
+824,Enriched Gourmet Green Beans,Vegetables,1 medium one,34.81,0.43,0.0,15.2,62.5,0,0,0,0,0,0.5,Synthetic
+825,Plain Selection Spinach,Vegetables,1 cup,94.99,2.96,3.32,16.29,106.9,0,0,0,0,1,0.5,Synthetic
+826,Natural Arabian Okra,Vegetables,1 medium one,95.16,6.02,1.3,0.2,36.6,0,0,0,0,1,1.0,Synthetic
+827,Frozen Wild Kale,Vegetables,1 medium one,18.25,3.41,4.57,0.2,55.6,0,0,0,0,0,0.25,Synthetic
+828,Lightly-Salted Wild Leeks,Vegetables,1 cup,199.01,0.85,0.0,14.32,60.7,0,0,0,0,1,1.0,Synthetic
+829,Dried Variety Leeks,Vegetables,1 medium one,156.38,8.11,3.37,8.07,95.0,1,0,0,0,0,0.75,Synthetic
+830,Whole Garden Bok Choy,Vegetables,Palm-sized portion,40.44,9.31,0.0,10.75,80.2,0,0,0,0,0,0.75,Synthetic
+831,Pickled Blend Kale,Vegetables,Sliced (1/2 cup),31.31,3.36,0.0,0.2,14.2,0,0,0,0,0,0.0,Synthetic
+832,Low-Fat Blend Radish,Vegetables,1/2 cup,113.88,6.85,0.0,0.2,28.2,0,0,0,0,0,0.75,Synthetic
+833,Low-Fat Style Okra,Vegetables,1 medium one,64.39,13.05,4.31,13.28,144.1,0,0,0,0,0,0.0,Synthetic
+834,Grilled Traditional Zucchini,Vegetables,1 cup,96.73,0.02,0.44,12.15,52.6,1,0,0,0,0,0.75,Synthetic
+835,Unsalted Arabian Zucchini,Vegetables,1 medium one,93.09,0.02,0.44,1.58,10.4,0,0,0,0,0,0.0,Synthetic
+836,Cold-Pressed Arabian Okra,Vegetables,1/2 cup,7.0,3.59,0.05,3.0,26.8,0,0,0,0,0,0.0,Synthetic
+837,Homemade Arabian Broccoli,Vegetables,Sliced (1/2 cup),74.96,0.02,1.87,21.07,101.2,0,0,0,0,0,0.5,Synthetic
+838,Smoked Heritage Sweet Potato,Vegetables,1/2 cup,168.36,6.94,0.0,17.42,97.4,0,0,0,0,0,1.0,Synthetic
+839,Cold-Pressed Mix Cabbage,Vegetables,1 medium one,79.43,0.02,0.0,45.0,180.1,1,0,0,0,0,0.0,Synthetic
+840,Lightly-Salted Blend Cabbage,Vegetables,Palm-sized portion,201.04,0.02,1.83,18.96,92.4,0,0,0,0,1,0.75,Synthetic
+841,Raw Mix Cabbage,Vegetables,1 cup,152.19,5.51,0.82,11.91,77.1,0,0,0,0,0,0.25,Synthetic
+842,Whipped Selection Kale,Vegetables,Sliced (1/2 cup),195.94,2.05,0.0,29.95,128.0,0,0,0,0,0,1.0,Synthetic
+843,Local Premium Cucumber,Vegetables,1/2 cup,238.78,13.34,1.65,36.13,212.7,0,0,0,0,1,1.0,Synthetic
+844,Marinated Classic Cauliflower,Vegetables,Palm-sized portion,13.01,1.41,1.55,0.2,20.4,0,0,0,0,0,0.5,Synthetic
+845,Natural Medley Green Beans,Vegetables,Sliced (1/2 cup),64.27,6.2,0.0,14.92,84.5,0,0,0,0,0,0.5,Synthetic
+846,Reduced-Fat Heritage Cabbage,Vegetables,1 medium one,85.63,2.9,4.88,14.72,114.4,0,0,0,0,0,0.25,Synthetic
+847,Cold-Pressed Mix Asparagus,Vegetables,1 medium one,145.84,0.81,0.0,16.82,70.5,1,0,0,0,1,0.0,Synthetic
+848,Fresh Mix Kale,Vegetables,1 cup,162.82,11.72,0.0,17.86,118.3,0,0,0,0,0,1.0,Synthetic
+849,Low-Fat Blend Cabbage,Vegetables,1 medium one,125.86,0.02,0.0,21.51,86.1,1,0,0,0,0,0.5,Synthetic
+850,Whipped Garden Artichoke,Vegetables,Sliced (1/2 cup),56.17,9.5,0.0,16.1,102.4,0,0,1,0,0,1.0,Synthetic
+851,Cold-Pressed Style Bell Peppers,Vegetables,Palm-sized portion,36.87,6.42,3.83,0.2,60.9,1,0,0,0,0,0.5,Synthetic
+852,Lightly-Salted Garden Cabbage,Vegetables,1 cup,8.65,4.07,0.02,0.2,17.3,0,0,0,0,0,0.0,Synthetic
+853,Marinated Gourmet Broccoli,Vegetables,1/2 cup,92.82,0.54,0.52,5.44,28.6,0,0,0,0,1,0.5,Synthetic
+854,Raw Selection Okra,Vegetables,1 cup,7.0,4.68,0.0,1.97,26.6,0,0,0,0,0,1.0,Synthetic
+855,Seasonal Gourmet Cauliflower,Vegetables,1 medium one,34.75,4.2,4.66,9.12,95.2,1,0,0,0,1,1.0,Synthetic
+856,Frozen Premium Leeks,Vegetables,1 medium one,110.32,3.31,3.5,0.2,45.5,0,0,0,0,0,0.75,Synthetic
+857,Whipped Heritage Broccoli,Vegetables,1/2 cup,83.22,0.02,2.1,10.02,59.1,1,0,0,0,0,0.5,Synthetic
+858,Steamed Style Cauliflower,Vegetables,1/2 cup,153.76,12.31,0.5,20.36,135.2,0,0,0,0,0,0.5,Synthetic
+859,Unsalted Variety Asparagus,Vegetables,1 medium one,57.13,2.2,0.0,26.53,114.9,1,0,0,0,0,0.75,Synthetic
+860,Smoked Arabian Asparagus,Vegetables,Palm-sized portion,78.29,3.1,3.89,24.28,144.5,0,0,0,0,0,0.25,Synthetic
+861,Pickled Variety Mushrooms,Vegetables,Sliced (1/2 cup),21.31,7.42,0.0,12.82,81.0,0,0,0,0,0,0.5,Synthetic
+862,Lightly-Salted Original Broccoli,Vegetables,1 medium one,54.14,3.16,0.0,0.2,13.4,0,0,0,0,0,0.5,Synthetic
+863,Raw Blend Kale,Vegetables,Sliced (1/2 cup),25.77,0.01,4.01,20.47,118.0,0,0,0,0,0,0.75,Synthetic
+864,Baked Traditional Bell Peppers,Vegetables,1 cup,7.0,0.02,1.14,5.5,32.3,0,0,0,0,0,0.25,Synthetic
+865,Herb-Infused Bahraini Okra,Vegetables,1 cup,33.01,5.59,0.0,15.59,84.7,0,0,1,0,0,0.25,Synthetic
+866,Smoked Selection Mushrooms,Vegetables,1 cup,63.09,4.7,4.1,0.2,56.5,0,0,0,0,0,1.0,Synthetic
+867,High-Protein Classic Bok Choy,Vegetables,1/2 cup,73.45,4.38,0.0,0.2,18.3,0,0,0,0,0,1.0,Synthetic
+868,Zero-Fat Variety Leeks,Vegetables,Sliced (1/2 cup),83.96,0.12,5.45,13.61,104.0,1,0,0,0,0,0.75,Synthetic
+869,Whole Selection Bell Peppers,Vegetables,1 cup,20.81,12.51,2.75,0.2,75.6,1,0,0,0,1,0.25,Synthetic
+870,Enriched Garden Asparagus,Vegetables,Palm-sized portion,28.83,14.86,6.3,0.2,116.9,0,0,0,0,0,1.0,Synthetic
+871,Whole Garden Kale,Vegetables,Sliced (1/2 cup),25.69,0.02,0.0,19.76,79.1,0,0,0,0,0,0.25,Synthetic
+872,Sun-Dried Classic Zucchini,Vegetables,Sliced (1/2 cup),226.46,5.96,12.74,8.6,172.9,0,0,0,0,0,0.0,Synthetic
+873,Roasted Bahraini Bell Peppers,Vegetables,1/2 cup,234.27,15.35,0.0,0.2,62.2,1,0,0,0,1,0.5,Synthetic
+874,Spiced Original Cauliflower,Vegetables,1 medium one,157.43,3.44,4.66,15.94,119.5,0,0,0,0,0,0.0,Synthetic
+875,Natural Variety Spinach,Vegetables,Sliced (1/2 cup),166.92,0.02,0.0,23.68,94.8,1,0,0,0,0,1.0,Synthetic
+876,Fortified Special Artichoke,Vegetables,Palm-sized portion,173.61,9.7,0.55,9.11,80.2,0,0,0,0,0,0.75,Synthetic
+877,Frozen Premium Zucchini,Vegetables,Palm-sized portion,15.41,1.53,0.35,12.76,60.3,0,0,0,0,0,0.75,Synthetic
+878,Extra-Virgin Garden Sweet Potato,Vegetables,1/2 cup,189.79,0.02,1.79,17.22,85.1,0,0,0,0,0,0.25,Synthetic
+879,Grilled Medley Sweet Potato,Vegetables,Palm-sized portion,46.42,10.16,6.34,25.17,198.4,1,0,0,0,0,1.0,Synthetic
+880,Frozen Medley Tomatoes,Vegetables,Sliced (1/2 cup),55.59,1.41,3.19,0.2,35.1,0,0,0,0,0,1.0,Synthetic
+881,Homemade Selection Radish,Vegetables,1/2 cup,93.05,0.02,1.62,6.31,39.9,0,0,1,0,0,0.25,Synthetic
+882,Grilled Selection Sweet Potato,Vegetables,1 cup,91.04,0.98,0.0,20.56,86.2,0,0,0,0,0,0.0,Synthetic
+883,Boiled Medley Tomatoes,Vegetables,1 cup,95.94,0.02,0.62,7.1,34.1,0,0,0,0,0,0.0,Synthetic
+884,Premium Premium Sweet Potato,Vegetables,Sliced (1/2 cup),50.81,7.07,0.0,37.22,177.2,0,0,0,0,0,0.25,Synthetic
+885,Baked Mix Leeks,Vegetables,Palm-sized portion,31.48,6.13,0.0,23.77,119.6,1,0,0,0,0,0.25,Synthetic
+886,Premium Classic Tomatoes,Vegetables,Palm-sized portion,217.61,8.73,0.0,9.86,74.4,1,0,1,0,1,0.0,Synthetic
+887,Seasonal Blend Leeks,Vegetables,1 medium one,133.43,0.02,0.1,0.2,1.8,0,0,0,0,0,0.5,Synthetic
+888,Roasted Mix Zucchini,Vegetables,1 cup,7.0,3.7,0.0,2.95,26.6,1,0,0,0,1,0.75,Synthetic
+889,Zero-Fat Mix Cabbage,Vegetables,1/2 cup,84.09,3.79,1.24,0.2,27.1,1,0,0,0,0,0.25,Synthetic
+890,Pickled Bahraini Eggplant,Vegetables,1 cup,43.07,17.84,1.1,21.92,168.9,0,0,0,0,0,0.25,Synthetic
+891,Fresh Premium Bell Peppers,Vegetables,Sliced (1/2 cup),87.14,5.21,0.0,34.24,157.8,0,0,0,0,0,0.0,Synthetic
+892,Pickled Premium Artichoke,Vegetables,1/2 cup,182.99,0.02,0.0,12.13,48.6,1,0,0,0,0,0.0,Synthetic
+893,Spiced Traditional Mushrooms,Vegetables,1 medium one,97.45,14.42,6.01,27.89,223.3,0,0,0,0,0,1.0,Synthetic
+894,Smoked Special Eggplant,Vegetables,1/2 cup,7.0,0.01,0.54,6.1,29.3,1,0,0,0,0,0.25,Synthetic
+895,Dried Variety Kale,Vegetables,Palm-sized portion,59.55,12.88,1.25,4.9,82.4,0,0,0,0,0,0.75,Synthetic
+896,Fresh Heritage Sweet Potato,Vegetables,1/2 cup,108.84,2.39,6.27,2.94,77.8,1,0,0,0,1,0.25,Synthetic
+897,Dried Farm-Fresh Broccoli,Vegetables,Sliced (1/2 cup),140.97,6.59,3.2,16.3,120.4,1,0,0,0,1,0.5,Synthetic
+898,Boiled Style Mushrooms,Vegetables,1/2 cup,116.16,11.49,0.98,21.85,142.2,0,0,0,0,0,0.5,Synthetic
+899,Premium Arabian Carrots,Vegetables,1 medium one,30.63,5.46,4.19,11.73,106.5,1,0,0,0,0,1.0,Synthetic
+900,Dried Arabian Asparagus,Vegetables,1/2 cup,84.66,2.63,1.37,0.2,23.7,0,0,0,0,0,0.25,Synthetic
+901,Low-Fat Medley Cucumber,Vegetables,1 cup,275.86,0.02,3.34,15.31,91.4,1,0,0,0,0,0.5,Synthetic
+902,High-Protein Garden Eggplant,Vegetables,1 medium one,116.73,12.3,0.0,0.2,50.0,0,0,0,0,0,0.0,Synthetic
+903,Fortified Traditional Artichoke,Vegetables,1 cup,133.66,8.35,6.05,2.55,98.0,0,0,1,0,0,0.25,Synthetic
+904,Fortified Style Okra,Vegetables,1 cup,164.98,0.02,0.0,23.92,95.8,0,0,0,0,0,0.0,Synthetic
+905,Spiced Heritage Zucchini,Vegetables,1 cup,236.04,0.02,5.34,12.74,99.1,0,0,0,0,1,0.0,Synthetic
+906,Organic Farm-Fresh Asparagus,Vegetables,Sliced (1/2 cup),162.29,5.13,7.54,0.2,89.2,0,0,0,0,0,0.0,Synthetic
+907,Fortified Style Kale,Vegetables,1 medium one,181.83,12.69,0.0,9.29,87.9,0,0,0,0,0,0.25,Synthetic
+908,Reduced-Fat Blend Radish,Vegetables,1/2 cup,54.42,8.68,0.0,30.31,156.0,0,0,0,0,0,0.0,Synthetic
+909,Whipped Garden Leeks,Vegetables,1 medium one,7.88,1.11,0.0,6.37,29.9,0,0,0,0,0,0.25,Synthetic
+910,Fortified Variety Cauliflower,Vegetables,1/2 cup,101.71,10.45,4.62,22.98,175.3,0,0,0,0,0,0.0,Synthetic
+911,Steamed Bahraini Cauliflower,Vegetables,1 cup,151.17,7.13,5.06,22.12,162.5,0,0,0,0,0,0.5,Synthetic
+912,Frozen Garden Mushrooms,Vegetables,1 medium one,146.71,2.65,0.0,13.91,66.2,1,0,0,0,1,1.0,Synthetic
+913,Lightly-Salted Gourmet Green Beans,Vegetables,Sliced (1/2 cup),193.5,3.7,0.0,10.14,55.4,1,0,0,0,0,0.5,Synthetic
+914,Reduced-Fat Bahraini Tomatoes,Vegetables,1 medium one,145.46,18.11,1.54,12.7,137.1,1,0,0,0,0,0.0,Synthetic
+915,Herb-Infused Variety Okra,Vegetables,1 cup,42.09,8.95,1.87,5.27,73.7,1,0,0,0,1,0.25,Synthetic
+916,Enriched Bahraini Asparagus,Vegetables,1 cup,53.33,1.81,0.0,3.67,21.9,0,0,0,0,0,0.0,Synthetic
+917,Whipped Heritage Mushrooms,Vegetables,1 medium one,26.26,12.29,1.17,0.2,60.5,1,0,0,0,1,1.0,Synthetic
+918,Organic Traditional Sweet Potato,Vegetables,1/2 cup,175.0,10.72,0.0,0.2,43.7,0,0,0,0,0,0.75,Synthetic
+919,Fresh Farm-Fresh Broccoli,Vegetables,Palm-sized portion,91.31,0.02,4.38,7.36,68.9,1,0,0,0,0,0.25,Synthetic
+920,Homemade Traditional Cauliflower,Vegetables,Palm-sized portion,86.22,11.59,0.0,10.04,86.5,0,0,0,0,0,0.25,Synthetic
+921,Enriched Bahraini Radish,Vegetables,Palm-sized portion,109.79,0.02,2.65,26.75,130.9,0,0,0,0,0,0.25,Synthetic
+922,Fortified Blend Sweet Potato,Vegetables,1/2 cup,200.46,3.23,3.8,6.26,72.2,0,0,0,0,0,0.75,Synthetic
+923,Natural Gourmet Eggplant,Vegetables,1 medium one,36.71,7.88,2.7,25.41,157.5,1,0,0,0,0,1.0,Synthetic
+924,Premium Medley Tomatoes,Vegetables,Palm-sized portion,58.81,0.02,0.0,16.46,65.9,0,0,0,0,1,0.75,Synthetic
+925,Marinated Gourmet Asparagus,Vegetables,Palm-sized portion,91.5,14.99,0.0,2.52,70.0,0,0,0,0,1,0.0,Synthetic
+926,Marinated Original Radish,Vegetables,Palm-sized portion,141.78,11.13,6.6,21.09,188.3,0,0,0,0,0,0.5,Synthetic
+927,Spiced Premium Eggplant,Vegetables,1/2 cup,7.0,0.47,0.4,5.79,28.6,1,0,0,0,0,1.0,Synthetic
+928,Organic Traditional Bok Choy,Vegetables,Sliced (1/2 cup),50.0,0.02,5.13,13.48,100.2,1,0,0,0,0,0.25,Synthetic
+929,Cold-Pressed Premium Asparagus,Vegetables,1 cup,19.9,4.52,3.3,11.08,92.1,0,0,0,0,0,0.5,Synthetic
+930,Extra-Virgin Arabian Leeks,Vegetables,1 medium one,106.93,2.0,0.0,11.85,55.4,1,0,0,0,1,0.25,Synthetic
+931,Marinated Bahraini Carrots,Vegetables,1/2 cup,204.7,0.11,2.49,7.66,53.5,0,0,0,0,0,0.5,Synthetic
+932,Plain Traditional Artichoke,Vegetables,Sliced (1/2 cup),7.0,0.31,0.0,6.34,26.6,1,0,0,0,0,0.0,Synthetic
+933,Reduced-Fat Wild Broccoli,Vegetables,1 cup,197.28,6.56,2.24,27.46,156.2,0,0,0,0,1,0.5,Synthetic
+934,Spiced Heritage Cabbage,Vegetables,Palm-sized portion,76.33,2.54,3.74,30.3,165.0,0,0,0,0,0,1.0,Synthetic
+935,Fresh Farm-Fresh Kale,Vegetables,1/2 cup,103.29,3.0,4.16,24.79,148.6,0,0,0,0,0,0.5,Synthetic
+936,Marinated Wild Bell Peppers,Vegetables,Sliced (1/2 cup),219.66,2.27,1.07,9.31,56.0,0,0,0,0,0,0.25,Synthetic
+937,Premium Special Zucchini,Vegetables,1 medium one,177.42,5.07,0.0,6.0,44.3,0,0,0,0,0,1.0,Synthetic
+938,Spiced Special Tomatoes,Vegetables,1 cup,125.58,1.26,0.94,0.2,14.3,1,0,0,0,0,1.0,Synthetic
+939,Zero-Fat Farm-Fresh Cabbage,Vegetables,Palm-sized portion,124.58,8.56,1.19,0.2,45.8,0,0,0,0,0,1.0,Synthetic
+940,Steamed Blend Cucumber,Vegetables,1/2 cup,32.54,11.9,0.0,19.01,123.6,1,0,0,0,0,1.0,Synthetic
+941,Unsalted Heritage Zucchini,Vegetables,1/2 cup,150.93,4.66,2.82,14.72,102.9,0,0,1,0,0,0.25,Synthetic
+942,Low-Fat Heritage Cucumber,Vegetables,1 medium one,167.3,17.24,0.65,11.02,118.9,0,0,0,0,0,0.25,Synthetic
+943,Whipped Original Spinach,Vegetables,1 medium one,175.32,0.02,0.74,11.85,54.1,1,0,0,0,0,0.25,Synthetic
+944,Marinated Traditional Carrots,Vegetables,1 cup,7.0,1.39,0.55,4.71,29.4,1,0,0,0,0,0.0,Synthetic
+945,Plain Gourmet Kale,Vegetables,1 cup,7.0,0.01,0.0,6.64,26.6,0,0,0,0,0,0.75,Synthetic
+946,Homemade Traditional Eggplant,Vegetables,1/2 cup,135.58,11.74,3.86,4.09,98.1,0,0,0,0,0,0.0,Synthetic
+947,Natural Gourmet Kale,Vegetables,1/2 cup,163.87,0.02,7.6,9.92,108.2,0,0,0,0,0,0.5,Synthetic
+948,Lightly-Salted Gourmet Kale,Vegetables,1/2 cup,70.04,0.63,4.49,0.2,43.7,0,0,0,0,0,0.0,Synthetic
+949,Steamed Farm-Fresh Cucumber,Vegetables,1 cup,36.5,9.39,1.51,8.93,86.9,1,0,0,0,0,0.0,Synthetic
+950,Steamed Farm-Fresh Cabbage,Vegetables,1 medium one,155.34,18.7,1.97,0.2,93.3,0,0,0,0,0,0.75,Synthetic
+951,Whipped Special Eggplant,Vegetables,Sliced (1/2 cup),226.73,2.85,0.42,28.79,130.3,0,0,0,0,0,0.25,Synthetic
+952,Grilled Farm-Fresh Kale,Vegetables,Palm-sized portion,181.64,0.02,2.99,0.2,27.8,0,0,0,0,0,1.0,Synthetic
+953,Unsalted Bahraini Cauliflower,Vegetables,1 cup,102.87,2.91,0.0,9.69,50.4,0,0,0,0,0,1.0,Synthetic
+954,Marinated Wild Eggplant,Vegetables,1/2 cup,107.56,5.71,1.28,6.87,61.8,0,0,0,0,0,0.25,Synthetic
+955,Reduced-Fat Bahraini Zucchini,Vegetables,1 medium one,92.81,13.93,0.66,0.2,62.5,0,0,0,0,0,0.0,Synthetic
+956,Natural Classic Artichoke,Vegetables,1 medium one,65.92,7.42,3.3,2.09,67.7,0,0,0,0,0,0.0,Synthetic
+957,Boiled Gourmet Asparagus,Vegetables,Palm-sized portion,7.0,0.0,0.0,6.65,26.6,0,0,0,0,1,0.5,Synthetic
+958,Premium Heritage Kale,Vegetables,1/2 cup,112.96,0.02,0.67,12.48,56.0,0,0,0,0,1,1.0,Synthetic
+959,Homemade Gourmet Broccoli,Vegetables,1 cup,7.0,4.74,1.78,0.13,35.5,1,0,0,0,0,1.0,Synthetic
+960,Marinated Medley Radish,Vegetables,Sliced (1/2 cup),7.0,1.28,0.0,0.2,5.9,1,0,0,0,0,0.75,Synthetic
+961,Sun-Dried Farm-Fresh Green Beans,Vegetables,1/2 cup,176.46,0.02,0.9,0.2,9.0,0,0,0,0,0,0.25,Synthetic
+962,Low-Fat Original Kale,Vegetables,Palm-sized portion,22.9,2.59,2.68,18.42,108.2,1,0,0,0,0,0.0,Synthetic
+963,Seasonal Wild Asparagus,Vegetables,Sliced (1/2 cup),59.08,3.11,2.7,36.04,180.9,0,0,0,0,0,0.25,Synthetic
+964,Smoked Bahraini Zucchini,Vegetables,1 medium one,86.2,11.29,0.0,1.72,52.0,1,0,0,0,1,0.0,Synthetic
+965,Fortified Gourmet Leeks,Vegetables,1/2 cup,30.8,7.74,0.25,20.85,116.6,0,0,1,0,0,0.25,Synthetic
+966,Natural Selection Bok Choy,Vegetables,Sliced (1/2 cup),191.0,2.87,6.07,2.41,75.8,0,0,0,0,1,0.75,Synthetic
+967,Natural Premium Leeks,Vegetables,1/2 cup,79.9,0.02,1.03,0.2,10.2,0,0,0,0,0,0.5,Synthetic
+968,Raw Classic Bell Peppers,Vegetables,Palm-sized portion,45.53,0.02,0.0,7.87,31.6,0,0,0,0,0,0.0,Synthetic
+969,Local Medley Zucchini,Vegetables,1 cup,14.86,4.14,0.0,9.98,56.5,0,0,0,0,0,0.25,Synthetic
+970,Enriched Traditional Leeks,Vegetables,1 cup,199.1,1.38,2.19,12.95,77.0,1,0,0,0,0,0.75,Synthetic
+971,Reduced-Fat Mix Bell Peppers,Vegetables,Palm-sized portion,24.63,11.91,0.0,4.61,66.1,1,0,0,0,0,0.0,Synthetic
+972,Premium Selection Cauliflower,Vegetables,1 medium one,141.57,10.35,0.0,0.2,42.2,0,0,0,0,0,0.25,Synthetic
+973,Frozen Gourmet Green Beans,Vegetables,1 cup,20.42,0.02,0.0,9.38,37.6,0,0,0,0,0,0.75,Synthetic
+974,Zero-Fat Garden Kale,Vegetables,1 medium one,7.0,4.24,2.34,0.06,38.3,0,0,0,0,0,0.5,Synthetic
+975,Herb-Infused Wild Kale,Vegetables,Palm-sized portion,160.32,2.27,0.22,37.04,159.2,0,0,1,0,0,0.5,Synthetic
+976,Homemade Selection Tahini,Fats and Oils,2 tbsp,11.43,0.02,11.39,0.0,102.6,0,0,0,0,0,0.25,Synthetic
+977,Whole Bahraini Tahini,Fats and Oils,2 tbsp,12.29,-0.0,7.78,1.42,75.7,0,0,0,0,0,0.0,Synthetic
+978,Whipped Special Avocado Oil,Fats and Oils,2 tbsp,10.78,0.08,7.62,3.5,82.9,0,0,0,0,0,1.0,Synthetic
+979,Dried Mix Tahini,Fats and Oils,2 tbsp,11.36,0.08,10.44,0.28,95.4,0,0,0,0,0,1.0,Synthetic
+980,Reduced-Fat Mix Flaxseed Oil,Fats and Oils,2 tbsp,12.23,0.13,3.9,0.44,37.4,0,0,0,0,0,1.0,Synthetic
+981,Local Original Flaxseed Oil,Fats and Oils,1 tbsp,13.68,0.09,5.56,1.71,57.2,0,0,0,0,0,1.0,Synthetic
+982,Natural Farm-Fresh Olive Oil,Fats and Oils,2 tbsp,10.39,0.03,8.8,1.04,83.5,1,0,0,0,0,0.25,Synthetic
+983,Boiled Wild Tahini,Fats and Oils,1 tsp,6.4,0.0,5.38,0.7,51.2,0,0,0,0,0,0.0,Synthetic
+984,Local Style Almond Butter,Fats and Oils,1 tbsp,4.7,0.03,4.43,0.0,40.0,0,0,0,0,0,0.0,Synthetic
+985,Baked Style Coconut Oil,Fats and Oils,1 tsp,9.8,0.04,8.13,1.14,77.9,0,0,0,0,0,0.75,Synthetic
+986,Homemade Premium Flaxseed Oil,Fats and Oils,1 tsp,4.7,0.01,4.46,0.0,40.2,0,0,0,0,0,0.5,Synthetic
+987,Baked Farm-Fresh Avocado Oil,Fats and Oils,1 tbsp,15.0,0.02,10.86,0.0,97.8,1,0,0,0,0,1.0,Synthetic
+988,Smoked Farm-Fresh Sunflower Oil,Fats and Oils,1 tbsp,9.39,0.07,8.85,0.0,79.9,0,0,0,0,0,0.75,Synthetic
+989,Pickled Classic Peanut Butter,Fats and Oils,1 tbsp,9.03,0.12,7.34,1.12,71.0,0,0,0,0,0,1.0,Synthetic
+990,Seasonal Premium Walnut Oil,Fats and Oils,2 tbsp,13.63,0.02,9.04,2.94,93.2,0,0,0,0,0,1.0,Synthetic
+991,Whole Special Sunflower Oil,Fats and Oils,1 tbsp,8.51,0.09,8.76,0.0,79.2,0,0,0,0,0,0.5,Synthetic
+992,Enriched Classic Olive Oil,Fats and Oils,1 tsp,4.7,0.01,4.41,0.04,39.9,1,0,0,0,0,0.75,Synthetic
+993,Reduced-Fat Premium Almond Butter,Fats and Oils,1 tbsp,15.0,0.03,7.31,0.56,68.1,0,0,0,0,0,0.0,Synthetic
+994,Grilled Medley Tahini,Fats and Oils,2 tbsp,9.07,0.03,7.08,1.5,69.8,1,0,0,0,0,0.75,Synthetic
+995,Fresh Classic Sunflower Oil,Fats and Oils,2 tbsp,13.19,0.05,10.14,1.17,96.1,0,0,0,0,0,0.25,Synthetic
+996,Smoked Medley Olive Oil,Fats and Oils,1 tbsp,10.72,0.04,10.15,0.0,91.5,0,0,0,0,0,0.0,Synthetic
+997,Sun-Dried Classic Sunflower Oil,Fats and Oils,1 tbsp,4.7,0.0,4.46,0.0,40.1,0,0,0,0,0,0.5,Synthetic
+998,Organic Original Avocado Oil,Fats and Oils,1 tsp,4.7,0.02,4.44,0.01,40.1,0,0,0,0,0,0.0,Synthetic
+999,Organic Original Walnut Oil,Fats and Oils,2 tbsp,8.11,0.0,7.27,0.43,67.1,0,0,0,0,0,0.5,Synthetic
+1000,Fresh Original Almond Butter,Fats and Oils,1 tsp,11.87,0.06,9.58,0.59,88.8,0,0,0,0,0,0.0,Synthetic
